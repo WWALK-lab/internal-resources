@@ -1,32 +1,30 @@
 [
   {
-    "listing": "/spatial-resources/00-spatial-resources.html",
+    "listing": "/other-resources/00-other-resources.html",
     "items": [
-      "/spatial-resources/06-boundary-data.html",
-      "/spatial-resources/01-building-data.html",
-      "/spatial-resources/02-census.html",
-      "/spatial-resources/07-planning-data.html",
-      "/spatial-resources/04-remote-sensing.html",
-      "/spatial-resources/05-road-data.html",
-      "/spatial-resources/03-vegetation-data.html"
+      "/other-resources/02-issa-resources.html",
+      "/other-resources/01-wwalk-lab-reading-list.html"
     ]
   },
   {
-    "listing": "/other-resources/00-other-resources.html",
+    "listing": "/resources/00-lab-resources.html",
     "items": [
-      "/other-resources/02-mtl-ecoorganizations.html",
-      "/other-resources/01-zule-lab-reading-list.html"
+      "/resources/01-shelby-images.html"
+    ]
+  },
+  {
+    "listing": "/templates/00-templates.html",
+    "items": [
+      "/templates/01-data-sharing.html",
+      "/templates/02-ethics.html"
     ]
   },
   {
     "listing": "/policies/00-policies.html",
     "items": [
-      "/policies/03-online-grad-orientation.html",
-      "/policies/05-international-student-orientation.html",
-      "/policies/01-code-of-conduct.html",
-      "/policies/02-individual-mentoring-plan.html",
-      "/policies/06-msc-proposal-outline.html",
-      "/policies/04-summer-undergrad-orientation.html"
+      "/policies/02-data-management.html",
+      "/policies/03-lab-computer.html",
+      "/policies/01-code-of-conduct.html"
     ]
   }
 ]

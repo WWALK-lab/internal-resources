@@ -1,10 +1,10 @@
 ## Hello!
 
-This website is for hosting all the important/most commonly used resources from the ZULE Lab. Feel free to use the search function to find what you need or check out the left sidebar for different categories, and then click on whatever topic is most relevant to you to get the info you need!
+This website is for hosting all the important/most commonly used resources from the WWALK Lab. Feel free to use the search function to find what you need or check out the left sidebar for different categories, and then click on whatever topic is most relevant to you to get the info you need!
 
-## Are we missing something?
+## Want to edit this website? 
 
-We want to know about datasets/resources you have been using, so we can add them here! If you want to contribute a resource to this page, you can:
+We want this website to be a living document! If you want to contribute a resource to this page, you can:
 
 -   Collaborating directly as a collaborator through GitHub ([Instructions for collaborators])
 
@@ -14,16 +14,25 @@ We want to know about datasets/resources you have been using, so we can add them
 
 ## TO-DO
 
--   add fieldwork guide
--   lab meeting slides
--   example metadata + instructions
--   link to repositories
+-		change code of conduct
+-   fill in content
+-		ask lab members what they want to see here 
+-		add quarto instructions
+-		aesthetics 
 
 ## Instructions for collaborators
 
+There are two aspects of collaborating on this project. The first is getting comfortable with Quarto docs and the second is making changes through GitHub. This includes instructions for both! 
+
+### Quarto 
+
+
+
+### GitHub
+
 So you're in the lab and you want want to push/pull/edit/add/remove documents without restrictions! Awesome, thanks for helping us keep our resources up to date. Here is a step-by-step list of how to go about it:
 
-1.  Get added as a member of the repository as a Maintainer. Right now, you can ask Bella, Carly, or Nicole to do this for you
+1.  Get added as a member of the repository as a Maintainer. Right now, you can ask Bella or Brendan to do this for you
 
 2.  You need to clone this repository to your device. There are many ways to do this - choose which way works for you.
 

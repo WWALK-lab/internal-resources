@@ -1,0 +1,14 @@
+---
+title: "Policies"
+listing:
+  type: table
+  sort:
+    - "title asc"
+  fields: [title, date, author]
+---
+
+## Lab Policies
+
+You can find lab policies documented here. The lab code of conduct is expected to be followed by all members of the lab.
+
+All files are linked below.
