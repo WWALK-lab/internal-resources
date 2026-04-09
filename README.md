@@ -2,31 +2,33 @@
 
 This website is for hosting all the important/most commonly used resources from the WWALK Lab. Feel free to use the search function to find what you need or check out the left sidebar for different categories, and then click on whatever topic is most relevant to you to get the info you need!
 
-## Want to edit this website? 
+## Want to edit this website?
 
 We want this website to be a living document! If you want to contribute a resource to this page, you can:
 
--   Collaborating directly as a collaborator through GitHub ([Instructions for collaborators])
+-   editing directly as a collaborator through GitHub ([Instructions for collaborators])
 
--   make a pull request
+-   make a pull request using your GitHub account
 
 -   message Bella on Zulip and say what you think is missing
 
 ## TO-DO
 
--		change code of conduct
+-   change code of conduct
+
 -   fill in content
--		ask lab members what they want to see here 
--		add quarto instructions
--		aesthetics 
+
+-   ask lab members what they want to see
+
+-   add quarto instructions
+
+-   aesthetics
 
 ## Instructions for collaborators
 
-There are two aspects of collaborating on this project. The first is getting comfortable with Quarto docs and the second is making changes through GitHub. This includes instructions for both! 
+There are two aspects of collaborating on this project. The first is getting comfortable with Quarto docs and the second is making changes through GitHub. This includes instructions for both!
 
-### Quarto 
-
-
+### Quarto
 
 ### GitHub
 

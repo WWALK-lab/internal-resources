@@ -40,7 +40,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "WWALK Lab Resources",
+    "title": "Lab Resources & Policies",
     "section": "",
     "text": "This website is for hosting all the important/most commonly used resources from the WWALK Lab. Feel free to use the search function to find what you need or check out the left sidebar for different categories, and then click on whatever topic is most relevant to you to get the info you need!",
     "crumbs": [
@@ -50,7 +50,7 @@
   {
     "objectID": "index.html#hello",
     "href": "index.html#hello",
-    "title": "WWALK Lab Resources",
+    "title": "Lab Resources & Policies",
     "section": "",
     "text": "This website is for hosting all the important/most commonly used resources from the WWALK Lab. Feel free to use the search function to find what you need or check out the left sidebar for different categories, and then click on whatever topic is most relevant to you to get the info you need!",
     "crumbs": [
@@ -60,9 +60,9 @@
   {
     "objectID": "index.html#want-to-edit-this-website",
     "href": "index.html#want-to-edit-this-website",
-    "title": "WWALK Lab Resources",
+    "title": "Lab Resources & Policies",
     "section": "Want to edit this website?",
-    "text": "Want to edit this website?\nWe want this website to be a living document! If you want to contribute a resource to this page, you can:\n\nCollaborating directly as a collaborator through GitHub (Instructions for collaborators)\nmake a pull request\nmessage Bella on Zulip and say what you think is missing",
+    "text": "Want to edit this website?\nWe want this website to be a living document! If you want to contribute a resource to this page, you can:\n\nediting directly as a collaborator through GitHub (Instructions for collaborators)\nmake a pull request using your GitHub account\nmessage Bella on Zulip and say what you think is missing",
     "crumbs": [
       "Home"
     ]
@@ -70,9 +70,9 @@
   {
     "objectID": "index.html#to-do",
     "href": "index.html#to-do",
-    "title": "WWALK Lab Resources",
+    "title": "Lab Resources & Policies",
     "section": "TO-DO",
-    "text": "TO-DO\n\n  change code of conduct\nfill in content\n  ask lab members what they want to see here \n  add quarto instructions\n  aesthetics",
+    "text": "TO-DO\n\nchange code of conduct\nfill in content\nask lab members what they want to see\nadd quarto instructions\naesthetics",
     "crumbs": [
       "Home"
     ]
@@ -80,7 +80,7 @@
   {
     "objectID": "index.html#instructions-for-collaborators",
     "href": "index.html#instructions-for-collaborators",
-    "title": "WWALK Lab Resources",
+    "title": "Lab Resources & Policies",
     "section": "Instructions for collaborators",
     "text": "Instructions for collaborators\nThere are two aspects of collaborating on this project. The first is getting comfortable with Quarto docs and the second is making changes through GitHub. This includes instructions for both!\n\nQuarto\n\n\nGitHub\nSo you’re in the lab and you want want to push/pull/edit/add/remove documents without restrictions! Awesome, thanks for helping us keep our resources up to date. Here is a step-by-step list of how to go about it:\n\nGet added as a member of the repository as a Maintainer. Right now, you can ask Bella or Brendan to do this for you\nYou need to clone this repository to your device. There are many ways to do this - choose which way works for you.\n\nProbably the easiest is to install GitHub Desktop, sign in to GitHub, and then select File -&gt; Clone Repository. It will list all repositories associated with your account, choose this one (zule-lab/biol226-resource-book).\n\nOpen GitHub Desktop (or whatever way you manage Git locally), and pull. Since this is a collaborative project, you need to fetch/pull before you make changes.\n\nNavigate to the where the folder was cloned to.\nOpen the project folder. Double-click on resources-base.Rproj . This should open an RStudio window with the project loaded\n\nThe individual documents are sorted into three folders: policies/ , spatial-resources/ , and other-resources/ . Within each folder, you can select the relevant file individually and edit it. If you have a relatively new version of RStudio, you should be able to edit these files using “Visual” mode, meaning that you can interact with it much like you would a word file (i.e., you can click to insert photos, the formatting is rendered, etc.)\n\nWhen you have made the changes you would like to make, save the file(s) and type quarto render into the R terminal. This will render all the changes you made and create an updated html file. It may take a couple minutes.\n\nYou can now find the locally updated file in the docs folder of the directory (index.html)\nCommit and push your changes (this will look different depending on what method/software you use), the website will take ~ 5 minutes to recompile and then you can visit it directly online to view any changes (https://zule-lab.github.io/quarto-resources/).\n\n\n(remember that if you do not push, the online version will not be updated and no one else will see your changes).\nBefore you make more changes or start a new session, pull.",
     "crumbs": [
@@ -152,20 +152,9 @@
   {
     "objectID": "policies/01-code-of-conduct.html",
     "href": "policies/01-code-of-conduct.html",
-    "title": "Lab Code of Conduct and Policies",
+    "title": "Lab Code of Conduct",
     "section": "",
-    "text": "Code of conduct adapted from our colleague Dr. Christie Bahlai, Kent State University\nScience is hard, and the work of making sure science isn’t harder than it needs to be is on all of us. We create our culture, and in the Ziter lab, our culture is inclusive.\nWe value the participation of every member of our community and want to ensure that every lab member and collaborator has a positive, educational experience unhindered by unnecessary challenges caused by non-inclusive behaviour. Accordingly, everyone who participates in any Ziter Lab project is expected to show respect and courtesy to other community members at all times, and recognize that you are an ambassador for our lab and institution when interacting with collaborators, community partners, or other stakeholders/rightsholders.\nCarly Ziter, as head of the Ziter Lab, and all lab members, are dedicated to a harassment and discrimination-free experience for everyone. Discrimination or harassment based on racial or ethnic background, citizenship status, religion (or lack thereof), political affiliation, gender identity/expression, sexual orientation, dis/ability status, appearance or body size will not be tolerated. We do not tolerate harassment or discrimination by (and/or of) members of our community in any form.\nTo make clear what is expected, we ask all members of the community to conform to the following Code of Conduct. - All lab communication - online and in person - should be appropriate for a professional audience including people of many different backgrounds. Sexual or discriminatory language and imagery is not appropriate at any time. - Be kind to others. Do not insult or put down other contributors. - Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate. - Please make an effort to make an inclusive environment for everyone. Give everyone a chance to talk and an opportunity to contribute. - Watch out for microaggressions. Be aware that your actions can be hurtful to others or contribute to a negative environment even if you had no intent of harm. Listen. Offer a genuine apology. Commit to learning and doing better.\nUnacceptable behaviour includes:\n\noffensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion (or lack thereof)\nsexual images in public spaces\ndeliberate intimidation\nstalking\nfollowing\nharassing photography or recording\nsustained disruption of discussions\ninappropriate physical contact\nand unwelcome sexual attention.\n\nParticipants asked to stop any harassing or discriminatory behaviour are expected to comply immediately.\nMembers of the community who violate these rules - no matter how much they have contributed to the Ziter lab, or how specialised their skill set - will be approached by Carly Ziter.\nTo report an issue please contact Carly Ziter. All communication will be treated as confidential.\n\n\n\n\nFor post-graduate members of the lab (grad students and PDFs), the specific hours that you choose to work are up to you. Some people find they work best on certain tasks early in the morning, or late at night. Some members prefer to work part time from a coffee shop or home. This flexibility is a major perk of academia, and it is the policy of the Ziter Lab that every member is already self-motivated and doesn’t necessarily need to work a traditional 9 to 5 day from the lab in order to meet their goals. However, ideally, all lab members will have at least a few hours most days to overlap with Carly and/or other lab members in order to stay in touch on any challenges or successes, and contribute to the intellectual and social culture of the lab.\nUndergraduate research assistants should check in with Carly as well as their direct graduate or postdoc advisor about work hours (see the undergrad orientation document in Google Drive). Some project positions will require specific hours, while others are more flexible. Undergraduates in the lab are encouraged to attend lab meetings and participate in the broader activities of the lab.\nAll lab members are expected to participate in scheduled lab meetings when possible. If you anticipate working particularly unusual hours (regularly, or during a specific period), please touch base with Carly so that we’re on the same page.\nAlong these lines, we are each welcome to send work-related emails over the weekend or late at night, but no lab members are required to reply to them outside of their typical work hours (even if the email is from Carly – who tends to send late night emails!)\n\n\n\nScheduled time off and vacations are important for personal health, well-being, and workplace productivity. Note that Concordia does not yet have an official policy on vacation leave for graduate students. As such, please consider this McGill policy for graduate student vacation as a rough guide if you are unsure what is appropriate, or, talk to Carly:\n\n“Graduate students and postdocs should normally be entitled to vacation leave equivalent to university holidays and an additional total of fifteen (15) working days in the year.”\nShort vacations (e.g. a few days) do not need to be cleared with Carly in advance, although I do appreciate knowing when you are away.\nFor vacations of a longer period (e.g. a week or more), the timing should ideally be discussed with Carly in advance so that we can ensure that your absence doesn’t compromise planned research, lab, or classroom activities, and we can find someone to step in and cover your responsibilities if necessary.\n\nCarly’s personal and professional travel will be written on the lab whiteboard so all lab members can reference when she is out of town. If you are comfortable, I encourage you to do the same. This allows your lab-mates to know when you are likely to be unavailable for collaboration or support, and is useful for planning lab activities.\nUndergraduate students should discuss vacations with Carly directly.",
-    "crumbs": [
-      "Lab Policies",
-      "Lab Code of Conduct"
-    ]
-  },
-  {
-    "objectID": "policies/01-code-of-conduct.html#additional-lab-policies",
-    "href": "policies/01-code-of-conduct.html#additional-lab-policies",
-    "title": "Lab Code of Conduct and Policies",
-    "section": "",
-    "text": "For post-graduate members of the lab (grad students and PDFs), the specific hours that you choose to work are up to you. Some people find they work best on certain tasks early in the morning, or late at night. Some members prefer to work part time from a coffee shop or home. This flexibility is a major perk of academia, and it is the policy of the Ziter Lab that every member is already self-motivated and doesn’t necessarily need to work a traditional 9 to 5 day from the lab in order to meet their goals. However, ideally, all lab members will have at least a few hours most days to overlap with Carly and/or other lab members in order to stay in touch on any challenges or successes, and contribute to the intellectual and social culture of the lab.\nUndergraduate research assistants should check in with Carly as well as their direct graduate or postdoc advisor about work hours (see the undergrad orientation document in Google Drive). Some project positions will require specific hours, while others are more flexible. Undergraduates in the lab are encouraged to attend lab meetings and participate in the broader activities of the lab.\nAll lab members are expected to participate in scheduled lab meetings when possible. If you anticipate working particularly unusual hours (regularly, or during a specific period), please touch base with Carly so that we’re on the same page.\nAlong these lines, we are each welcome to send work-related emails over the weekend or late at night, but no lab members are required to reply to them outside of their typical work hours (even if the email is from Carly – who tends to send late night emails!)\n\n\n\nScheduled time off and vacations are important for personal health, well-being, and workplace productivity. Note that Concordia does not yet have an official policy on vacation leave for graduate students. As such, please consider this McGill policy for graduate student vacation as a rough guide if you are unsure what is appropriate, or, talk to Carly:\n\n“Graduate students and postdocs should normally be entitled to vacation leave equivalent to university holidays and an additional total of fifteen (15) working days in the year.”\nShort vacations (e.g. a few days) do not need to be cleared with Carly in advance, although I do appreciate knowing when you are away.\nFor vacations of a longer period (e.g. a week or more), the timing should ideally be discussed with Carly in advance so that we can ensure that your absence doesn’t compromise planned research, lab, or classroom activities, and we can find someone to step in and cover your responsibilities if necessary.\n\nCarly’s personal and professional travel will be written on the lab whiteboard so all lab members can reference when she is out of town. If you are comfortable, I encourage you to do the same. This allows your lab-mates to know when you are likely to be unavailable for collaboration or support, and is useful for planning lab activities.\nUndergraduate students should discuss vacations with Carly directly.",
+    "text": "Lab Code of Conduct",
     "crumbs": [
       "Lab Policies",
       "Lab Code of Conduct"
@@ -176,7 +165,7 @@
     "href": "policies/00-policies.html",
     "title": "Policies",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nData Management Policy\n\n\n \n\n\n \n\n\n\n\n\n\nHow to use the WWALK lab computer (aka George)\n\n\n \n\n\n \n\n\n\n\n\n\nLab Code of Conduct and Policies\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nData Management Policy\n\n\n \n\n\n \n\n\n\n\n\n\nHow to use the WWALK lab computer (aka George)\n\n\n \n\n\n \n\n\n\n\n\n\nLab Code of Conduct\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Lab Policies"
     ]

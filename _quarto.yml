@@ -5,18 +5,15 @@ project:
 
 
 website:
-  title: 'WWALK Lab Resources'
+  title: 'Lab Resources & Policies'
   page-navigation: true
-  reader-mode: true
+  reader-mode: false
   repo-url: https://github.com/wwalk-lab/internal-resources
-  repo-actions: [edit, issue]
-  navbar:
-    logo: imgs/WWALK_logo.jpg
-    title: 'WWALK Lab Resources & Policies'
-    right:
-      - icon: github
-        href: https://github.com/wwalk-lab/internal-resources
+  repo-actions: [edit]
   sidebar:
+    style: "docked"
+    logo: "imgs/WWALK_logo.png"
+    search: true
     contents:
       - href: index.qmd
         text: Home
@@ -50,7 +47,5 @@ website:
             text: iSSA Resources
 format:
   html:
-    theme:
-      light: flatly
-      dark: darkly
+    theme: flatly
     toc: true
