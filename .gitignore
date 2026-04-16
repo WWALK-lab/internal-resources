@@ -16,3 +16,5 @@ _targets/
 **/*.quarto_ipynb
 
 /imgs/art/
+
+docs/imgs/art
