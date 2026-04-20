@@ -7,16 +7,16 @@
     ]
   },
   {
+    "listing": "/resources/00-lab-resources.html",
+    "items": [
+      "/resources/01-shelby-images.html"
+    ]
+  },
+  {
     "listing": "/templates/00-templates.html",
     "items": [
       "/templates/01-data-sharing.html",
       "/templates/02-ethics.html"
-    ]
-  },
-  {
-    "listing": "/resources/00-lab-resources.html",
-    "items": [
-      "/resources/01-shelby-images.html"
     ]
   },
   {
