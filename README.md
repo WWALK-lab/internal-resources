@@ -18,9 +18,39 @@ We want this website to be a living document! If you want to contribute a resour
 
 -   fill in content
 
--   ask lab members what they want to see
+-   add content:
 
--   add quarto instructions
+    -   info sheet for estimating species density using camera traps
+
+    -   info sheet for weaving knowledge in Bayesian networks
+
+    -   MSc and PhD program requirements (committee meetings, stipends, *timeline*)
+
+    -   resources page for UCalgary
+
+    -   example theses/proposals
+
+    -   description of research projects + partners
+
+    -   expense report instructions/lab credit card instructions/cash advance instructions
+
+    -   thesis proposal regulations (on D2L)
+
+    -   "how to prep" list for folks about to join the lab/incorporate onboarding buddies??
+
+    -   internal lab directory w skills/knowledge of people
+
+    -   NSERC proposals
+
+    -   Calgary info
+
+    -   frequent links (e.g., writing group)
+
+    -   field safety doc
+
+-   add quarto/github instructions
+
+-   make private repo for sensitive material
 
 -   aesthetics
 
