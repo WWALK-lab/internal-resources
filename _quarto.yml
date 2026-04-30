@@ -47,6 +47,6 @@ website:
             text: iSSA Resources
 format:
   html:
-    theme: flatly
+    theme: darkly
     toc: true
     css: styles.css
