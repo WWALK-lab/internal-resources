@@ -1,0 +1,58 @@
+# Data Archiving Policy
+
+After finishing your project(s) in the lab, you are expected to archive all data, metadata, and code that was used for your project.
+
+All data should always be accompanied with metadata.
+
+## Public Archiving
+
+Many of you will already have some version of your code/data published and archived in public spaces (e.g., GitHub, Zenodo, figshare). This is great! Make sure it is clear in your paper or thesis where to find these resources, so that future students/collaborators/Ally can find them in the future.
+
+If you are using GitHub, you are welcome to have your code repository hosted on your personal GitHub account. You are also welcome to host it on the WWALK GitHub account, so that it is more easily found by WWALKers. Even if on the WWALK GitHub, all the commits will be associated to your account and it will be clear that you are the one who did the work. You can also still pin the repository to your user profile, so that people visiting your account can see it.
+
+If you want to change the ownership of a repository (transfer it to your account from the WWALK account or vice versa), see [this page](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-personal-account)
+
+## Lab Archiving
+
+In addition to public archiving, you are expected to archive your project physically in the lab.
+
+If all of your code, data, and metadata is already archived publicly, this can be as easy as downloading a zip file and putting it WHERE.
+
+If some of your data is not suitable to be publicly available, you may need to add it to your publicly archived version and set permission restrictions on the folder on WHERE so that only yourself and Ally can access the folder.
+
+To archive your project on WHERE, remotely (or locally) connect to the [lab computer](/policies/04-lab-computer.qmd) and add data, metadata, code, thesis/paper(s), and any presentations to WHERE in a folder that is titled YOUR_NAME_YEAR.
+
+## Metadata
+
+There are many ways to create and organize metadata. In its simplest form, metadata should include the project title, author, date, description, and clear descriptions of the datasets used.
+
+Metadata files should be present in every folder that contains data that cannot be produced by the associated project's code.
+
+Minimal example:
+
+```         
+Project: Example Project
+Author: Isabella Richmond 
+Date: 21-05-2026
+
+This project is a collaboration between X and Y to determmine the effect of A on B. Data collection occured HERE, at this TIME.
+
+This metadata file describes the variables in each of the datasets that accompany: THESIS OR PAPER TITLE (link if published + pdf in folder)
+
+Code can be found: (in folder or on GitHub)
+
+DATASETS (go through each csv in the folder and describe each column)
+
+dataset: dataset1.csv
+overall description: 
+column_1: description of column 1 (units)
+column_2: description of column 2 (units)
+
+
+dataset: dataset2.csv
+overall description: 
+column_1: description of column 1 (units)
+column_2: description of column 2 (units)
+```
+
+Note: for many of us, clear and comprehensive metadata is a condition of our data sharing agreements. This is a critical output, that should never be skipped.

@@ -1,0 +1,49 @@
+[
+  {
+    "listing": "/other-resources/00-other-resources.html",
+    "items": [
+      "/other-resources/01-frequent-links.html",
+      "/other-resources/02-wwalk-lab-reading-list.html"
+    ]
+  },
+  {
+    "listing": "/resources/00-lab-resources.html",
+    "items": [
+      "/resources/06-antiO.html",
+      "/resources/05-grants.html",
+      "/resources/04-expenses.html",
+      "/resources/02-research.html",
+      "/resources/01-shelby-images.html",
+      "/resources/03-field-safety.html"
+    ]
+  },
+  {
+    "listing": "/templates/00-templates.html",
+    "items": [
+      "/templates/06-camera.html",
+      "/templates/07-networks.html",
+      "/templates/05-issa-resources.html",
+      "/templates/01-data-sharing.html",
+      "/templates/02-ethics.html",
+      "/templates/04-thesis.html",
+      "/templates/03-thesis-proposal.html"
+    ]
+  },
+  {
+    "listing": "/ucal/00-ucal.html",
+    "items": [
+      "/ucal/01-program-requirements.html",
+      "/ucal/03-resources.html",
+      "/ucal/02-thesis-requirements.html"
+    ]
+  },
+  {
+    "listing": "/policies/00-policies.html",
+    "items": [
+      "/policies/03-data-management.html",
+      "/policies/04-lab-computer.html",
+      "/policies/01-code-of-conduct.html",
+      "/policies/02-joining-lab.html"
+    ]
+  }
+]

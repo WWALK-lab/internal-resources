@@ -1,0 +1,90 @@
+project:
+  type: website
+  output-dir: docs
+  execute-dir: project
+
+
+website:
+  title: 'Lab Resources & Policies'
+  page-navigation: true
+  reader-mode: false
+  repo-url: https://github.com/wwalk-lab/internal-resources
+  repo-actions: [edit]
+  sidebar:
+    style: "docked"
+    logo: "imgs/WWALK_logo.png"
+    search: true
+    contents:
+      - href: index.qmd
+        text: Home
+      - section: "Lab Policies"
+        href: policies/00-policies.qmd
+        contents:
+          - href: policies/01-code-of-conduct.qmd
+            text: Lab Code of Conduct
+          - href: policies/02-joining-lab.qmd
+            text: Joining the Lab
+          - href: policies/03-data-management.qmd
+            text: WWALK Data Management
+          - href: policies/04-lab-computer.qmd
+            text: George (Lab Computer)
+      - section: "Lab Resources"
+        href: resources/00-lab-resources.qmd
+        contents:
+          - href: resources/01-shelby-images.qmd
+            text: Shelby's Drawings
+          - href: resources/02-research.qmd
+            text: Ongoing Research Projects & Partners
+          - href: resources/03-field-safety.qmd
+            text: Field Safety Document
+          - href: resources/04-expenses.qmd
+            text: Expense Reports & Lab Credit Card
+          - href: resources/05-grants.qmd
+            text: NSERC & Other Grants
+          - href: resources/06-antiO.qmd
+            text: Anti-Oppression Resource List
+      - section: "Templates & Tutorials"
+        href: templates/00-templates.qmd
+        contents:
+          - href: templates/01-data-sharing.qmd
+            text: Data Sharing Agreement Template
+          - href: templates/02-ethics.qmd
+            text: University of Calgary Ethics Application
+          - href: templates/03-thesis-proposal.qmd
+            text: Thesis Proposal
+          - href: templates/04-thesis.qmd
+            text: Thesis
+          - href: templates/05-issa-resources.qmd
+            text: iSSA Walkthrough
+          - href: templates/06-camera.qmd
+            text: Estimating Species Density with Camera Traps
+          - href: templates/07-networks.qmd
+            text: Weaving Knowledge in Bayesian Networks
+      - section: "University of Calgary"
+        href: ucal/00-ucal.qmd
+        contents:
+          - href: ucal/01-program-requirements.qmd
+            text: UCalgary Program Requirements
+          - href: ucal/02-thesis-requirements.qmd
+            text: UCalgary Thesis (and Proposal) Requirements
+          - href: ucal/03-resources.qmd
+            text: UCalgary Student Resources
+      - section: "Other Resources"
+        href: other-resources/00-other-resources.qmd
+        contents:
+          - href: other-resources/01-frequent-links.qmd
+            text: Frequent Links & Private Info
+          - href: other-resources/02-wwalk-lab-reading-list.qmd
+            text: WWALK Lab Reading List
+
+
+format:
+  html:
+    grid:
+      sidebar-width: 350px
+      margin-width: 200px
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    css: styles.css

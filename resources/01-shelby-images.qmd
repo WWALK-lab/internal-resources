@@ -1,0 +1,4 @@
+# Shelby's Illustrations
+
+This page is to display all the art that Shelby has created for the lab. For high-quality downloads go to the [art folder](https://github.com/WWALK-lab/internal-resources-private/tree/main/shelby_art) on the lab's private github repository (you need to be signed in and have access to this repo to view the files).
+
