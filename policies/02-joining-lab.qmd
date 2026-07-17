@@ -1,3 +1,121 @@
-# Tips and tricks for students joining the lab
+# Incoming Student Checklist
 
-This is a VERY serious policy
+## Application Information
+
+-   General application information for graduate school at UCalgary can be found [here](https://grad.ucalgary.ca/future-students/graduate/admissions/how-apply)
+-   There is Biology department specific information for [MSc](https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/biological-sciences-msc-thesis) and [PhD](https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/biological-sciences-phd)
+-   If you are an Indigenous student, there are some specific funding sources you may be eligible for - more info [here](https://grad.ucalgary.ca/future-students/graduate/information/indigenous-graduate-students)
+-   International students apply in the same way as domestic students but once approved, you will need to apply for a study permit
+    -   For information on applying for immigration after you have received your admission offer, please contact [issimmigration\@ucalgary.ca](mailto:issimmigration@ucalgary.ca)
+
+### Application Requirements
+
+-   Application requirements can be found on the [home page](https://grad.ucalgary.ca/future-students/graduate/admissions/how-apply), with more detailed information [here](https://calendar.ucalgary.ca/uofcregs/graduate-regulations/graduate-admissions) and Biology specific info [here](https://calendar.ucalgary.ca/programs/BISIMSCT/admissions-cMwRI)
+
+### Application Deadlines
+
+can only find undergrad deadlines???
+
+## General UCal Information
+
+### Enrollment
+
+-   Deadlines for the current calendar year can be found [here](https://calendar.ucalgary.ca/acadsched), make sure you enroll before then!
+
+-   Course drop deadlines also change year to year, check the academic calendar for the last date where you can drop without a financial penalty
+
+    -   For example, [2026-2027](https://calendar.ucalgary.ca/acadsched#fall-2026-winter-20271)
+
+### Course selection
+
+-   Registration in BIOL 601.05 (fall) & BIOL 601.06 (winter) are mandatory for MSc and PhD Ecology students (other course codes will apply to different majors)
+
+    -   BIOL601 is a seminar course (non-graded & just for credit) & it **must be taken 4 times in the first 2 years of your degree** (each semester for 2 years)
+
+        -   In your first year, your presentation will usually fall in the second half (winter) & in your second year, your presentation will be in the first half (fall)
+
+        -   If you started in the winter semester your first presentation would be in the fall of the next academic year
+
+-   For an MSc/PhD you will require 2 additional classes (6 credits) to meet the requirements for graduation
+
+    -   Half of all coursework (1 class) has to be at the graduate / 600 level, the other half (1 course) can be an undergraduate level course (level 500) if subject is appropriate and approval from the graduate program is given
+
+    -   A list of past graduate courses can be found [here](https://calendar.ucalgary.ca/courses?cq=&departments=BISI&career=Graduate+Programs&page=1) but course offerings change every year so talk to labmates/PI for a more relevant list of courses
+
+    -   Courses can be taken from outside your department, with permission from the graduate program It is best to talk to your supervisor to discuss the best course options for your program
+
+### Useful contacts
+
+-   Department Head: David Hansen (dhansen\@ucalgary.ca)
+
+    -   Contact for escalated issues, including unresolved faculty conflicts or administrative appeals
+
+-   Graduate Program Director: Paul Galpern (paul.galpern\@ucalgary.ca)
+
+    -   Contact for program-specific needs like course requirements, supervisory or committee issues, funding concerns; program interruptions & leaves; policy exceptions (course substitution, program transfer, or exceptional changes to degree requirements)
+
+### Tuition & payments
+
+-   Tuition fees for all thesis-based graduate programs can be found [here](https://calendar.ucalgary.ca/pages/bdf3d650a14247e4912def1671b7ba09)
+
+-   Once a registered student, make sure you log in to your student portal (dashboard \> student \> my financials) to check if you have an amount owing
+
+    -   Tuition fee calendar: https://www.ucalgary.ca/registrar/finances/pay-your-fees
+
+    -   They do NOT send reminders to pay! If you are late on your tuition payment, you can accrue interest ([details](https://www.ucalgary.ca/registrar/finances/pay-your-fees/late-fees-and-payment-issues))
+
+-   You can [apply for payment plans](https://www.ucalgary.ca/registrar/finances/pay-your-fees/payment-plan) if you are not able to pay for your entire tuition at once
+
+-   You are required to pay tuition 4x per year: fall, winter, spring, summer
+
+-   Your tuition includes other services which are active year-round: bus pass gym membership insurance
+
+### Insurance
+
+-   As a graduate student you are covered under the [graduate health & dental insurance plan](https://gsa.ucalgary.ca/health-dental-services-2/)
+
+-   You may choose to opt out of the provided graduate health & dental insurance if you are covered by another insurance company (i.e. your parents coverage, etc.)
+
+    -   Opt out dates are usually mid-month of the first month you register but can be found [here](https://gsa.ucalgary.ca/health-dental-services-2/)
+
+-   Login [here](https://studentbenefits.ca/) to see your benefits and/or to submit a claim
+
+-   You can add your spouse and children as dependents on your insurance policy, it must be done every year
+
+    -   There are associated fees with adding dependents
+
+    -   Add dependents by going to studentbenefits.ca, clicking on “UCGSA” and "Add Dependants", and completing the form in full. Once approved, the fee will be applied to your student account. The deadline depends on the date your course begins.
+
+-   INTERNATIONAL STUDENTS
+
+## City of Calgary Information
+
+### Nearby Shopping
+
+-   Grocery stores
+
+    -   **Save on Foods (University District):** Slightly more expensive but you get a 10% student discount with your UCID and they have a points/saving card you can get for free
+
+    -   **Freshco:** In Brentwood, just over the bridge at the NE side of campus
+
+        -   Lower general prices and good sales
+
+    -   **H&W produce:** in the north-east, offers very cheap produce!
+
+-   Malls
+
+    -   **Market Mall:** Right near the university & has most things you might need
+
+    -   **Cross Iron Mills:** Need a car to drive there but its a bigger mall with some good sales (it’s an outlet)
+
+-   Other stores
+
+    -   **Dollarama**: In Brentwood near the freshco
+
+    -   **Ikea**: Heritage (it’s a bit far and not very accessible by transit)
+
+    -   **Staples**: good for quick-printing and school supplies 
+
+-   Discounts (a lot of stores in the University District offer discounts to students)
+
+    -   Cobs Bread, Save on Foods & barBurrito

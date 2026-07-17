@@ -28,13 +28,369 @@
     "text": "If you develop a new program, and you want it to be of the greatest possible use to the public, the best way to achieve this is to make it free software which everyone can redistribute and change under these terms.\nTo do so, attach the following notices to the program. It is safest to attach them to the start of each source file to most effectively state the exclusion of warranty; and each file should have at least the “copyright” line and a pointer to where the full notice is found.\n&lt;one line to give the program's name and a brief idea of what it does.&gt;\nCopyright (C) &lt;year&gt;  &lt;name of author&gt;\n\nThis program is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation, either version 3 of the License, or\n(at your option) any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.\nAlso add information on how to contact you by electronic and paper mail.\nIf the program does terminal interaction, make it output a short notice like this when it starts in an interactive mode:\n&lt;program&gt;  Copyright (C) &lt;year&gt;  &lt;name of author&gt;\nThis program comes with ABSOLUTELY NO WARRANTY; for details type 'show w'.\nThis is free software, and you are welcome to redistribute it\nunder certain conditions; type 'show c' for details.\nThe hypothetical commands show w and show c should show the appropriate parts of the General Public License. Of course, your program’s commands might be different; for a GUI interface, you would use an “about box”.\nYou should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright disclaimer” for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see &lt;http://www.gnu.org/licenses/&gt;.\nThe GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read &lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt;."
   },
   {
-    "objectID": "other-resources/00-other-resources.html",
-    "href": "other-resources/00-other-resources.html",
-    "title": "Other Resources",
+    "objectID": "other-resources/03-ucal-server.html",
+    "href": "other-resources/03-ucal-server.html",
+    "title": "University of Calgary Server",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nFrequent Links (+ Private Stuff)\n\n\n \n\n\n \n\n\n\n\n\n\nWWALK Reading List\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items",
+    "text": "University of Calgary Server"
+  },
+  {
+    "objectID": "other-resources/01-frequent-links.html",
+    "href": "other-resources/01-frequent-links.html",
+    "title": "Frequent Links (+ Private Stuff)",
+    "section": "",
+    "text": "Frequent Links (+ Private Stuff)",
     "crumbs": [
-      "Other Resources"
+      "Other Resources",
+      "Frequent Links & Private Info"
+    ]
+  },
+  {
+    "objectID": "resources/06-antiO.html",
+    "href": "resources/06-antiO.html",
+    "title": "Anti-Oppression Resource List",
+    "section": "",
+    "text": "Anti-Oppression Resource List",
+    "crumbs": [
+      "Lab Resources",
+      "Anti-Oppression Resource List"
+    ]
+  },
+  {
+    "objectID": "resources/05-grants.html",
+    "href": "resources/05-grants.html",
+    "title": "How to apply for grants (with examples)",
+    "section": "",
+    "text": "How to apply for grants (with examples)",
+    "crumbs": [
+      "Lab Resources",
+      "NSERC & Other Grants"
+    ]
+  },
+  {
+    "objectID": "resources/04-expenses.html",
+    "href": "resources/04-expenses.html",
+    "title": "How to file expense reports",
+    "section": "",
+    "text": "How to file expense reports",
+    "crumbs": [
+      "Lab Resources",
+      "Expense Reports & Lab Credit Card"
+    ]
+  },
+  {
+    "objectID": "resources/03-field-safety.html",
+    "href": "resources/03-field-safety.html",
+    "title": "WWALK (and UCalgary) Field Safety",
+    "section": "",
+    "text": "WWALK (and UCalgary) Field Safety",
+    "crumbs": [
+      "Lab Resources",
+      "Field Safety Document"
+    ]
+  },
+  {
+    "objectID": "templates/07-networks.html",
+    "href": "templates/07-networks.html",
+    "title": "Crash course: Weaving knowledge in Bayesian networks",
+    "section": "",
+    "text": "Crash course: Weaving knowledge in Bayesian networks",
+    "crumbs": [
+      "Templates & Tutorials",
+      "Weaving Knowledge in Bayesian Networks"
+    ]
+  },
+  {
+    "objectID": "templates/06-camera.html",
+    "href": "templates/06-camera.html",
+    "title": "Crash course: Estimating species densities with camera traps",
+    "section": "",
+    "text": "Crash course: Estimating species densities with camera traps",
+    "crumbs": [
+      "Templates & Tutorials",
+      "Estimating Species Density with Camera Traps"
+    ]
+  },
+  {
+    "objectID": "templates/03-thesis-proposal.html",
+    "href": "templates/03-thesis-proposal.html",
+    "title": "Thesis Proposal",
+    "section": "",
+    "text": "Thesis Proposal",
+    "crumbs": [
+      "Templates & Tutorials",
+      "Thesis Proposal"
+    ]
+  },
+  {
+    "objectID": "templates/01-data-sharing.html",
+    "href": "templates/01-data-sharing.html",
+    "title": "Data Sharing Agreements",
+    "section": "",
+    "text": "Data Sharing Agreements",
+    "crumbs": [
+      "Templates & Tutorials",
+      "Data Sharing Agreement Template"
+    ]
+  },
+  {
+    "objectID": "policies/04-lab-computer.html",
+    "href": "policies/04-lab-computer.html",
+    "title": "How to use the WWALK lab computer (aka George)",
+    "section": "",
+    "text": "How to use the WWALK lab computer (aka George)\nGeorge is a lab computer that lives on the University of Calgary campus. It is a relatively powerful computer, so if you have tasks that demand a high computational load, it may be a good idea to run them on George and save yourself some time.\nGeorge’s specs:\n\nRAM: 32GB\nCPU: 8 cores\nMemory: ~ 1.4 TB of storage\n\nIf you are in person, you can access George directly. Sign-in details are located here.\nIf you are working from home, remote connection is possible through RustDesk. You will need to install RuskDesk first, and then can access it via its “computer ID”, located here.\nImportant: Multiple people can log on to George at the same time. If you are running something on George, post in the lab Zulip to let others know that it is unavailable for the next few hours/day (UofC Things -&gt; George).\nIf George is still not powerful enough to run the analyses you are doing, consider using the UCalgary server",
+    "crumbs": [
+      "Lab Policies",
+      "George (Lab Computer)"
+    ]
+  },
+  {
+    "objectID": "policies/00-policies.html",
+    "href": "policies/00-policies.html",
+    "title": "Policies",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nData Management & Archiving\n\n\n \n\n\n \n\n\n\n\n\n\nHow to use the WWALK lab computer (aka George)\n\n\n \n\n\n \n\n\n\n\n\n\nIncoming Student Checklist\n\n\n \n\n\n \n\n\n\n\n\n\nLab Code of Conduct\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Lab Policies"
+    ]
+  },
+  {
+    "objectID": "ucal/03-resources.html",
+    "href": "ucal/03-resources.html",
+    "title": "Student resources",
+    "section": "",
+    "text": "Student resources",
+    "crumbs": [
+      "University of Calgary",
+      "UCalgary Student Resources"
+    ]
+  },
+  {
+    "objectID": "ucal/00-ucal.html",
+    "href": "ucal/00-ucal.html",
+    "title": "Universit of Calgary",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nMSc and PhD Program Requirements\n\n\n \n\n\n \n\n\n\n\n\n\nStudent resources\n\n\n \n\n\n \n\n\n\n\n\n\nThesis Requirements\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "University of Calgary"
+    ]
+  },
+  {
+    "objectID": "ucal/01-program-requirements.html",
+    "href": "ucal/01-program-requirements.html",
+    "title": "MSc and PhD Program Requirements",
+    "section": "",
+    "text": "MSc and PhD Program Requirements",
+    "crumbs": [
+      "University of Calgary",
+      "UCalgary Program Requirements"
+    ]
+  },
+  {
+    "objectID": "ucal/02-thesis-requirements.html",
+    "href": "ucal/02-thesis-requirements.html",
+    "title": "Thesis Requirements",
+    "section": "",
+    "text": "Thesis Requirements",
+    "crumbs": [
+      "University of Calgary",
+      "UCalgary Thesis (and Proposal) Requirements"
+    ]
+  },
+  {
+    "objectID": "policies/01-code-of-conduct.html",
+    "href": "policies/01-code-of-conduct.html",
+    "title": "Lab Code of Conduct",
+    "section": "",
+    "text": "Adapted from Christie Bahlai’s code of conduct\nScience is already hard. The work of making sure science isn’t harder than it needs to be is incumbent on all of us. We create our culture, and in the WWALK lab, our culture is rooted in humility, accountability, respect, equity, and anti-oppression.\nThrough our science and all that surrounds it, we strive to recognize and dismantle the systemic barriers placed upon marginalized people and to create a space where we/they can thrive. “Scientist” is a role comprised of many parts which cannot be isolated from each other, the parts include mentor, community member, statistician, communicator, advocate, writer, teacher, and more. The policies contained in this document encompass all of the roles we play.\nOppression and structures of power dynamics persist through being naturalized and invisible. To fight for equity, we all carry a responsibility to actively pay attention and call out the ways in which race, ethnicity, class, gender, sexual orientation, (dis)ability, and other factors affect our experiences and work against the oppressive systems causing these differences. Discrimination or harassment based on the above axes of marginalization, or any others, will not be tolerated. We do not tolerate harassment or discrimination by and/or of members of our community in any form.\nIn the WWALK Lab, we have the privilege of working with many Indigenous communities. This privilege comes with responsibilities of care, thoughtfulness, and humility. Scientific research has and continues to be a source of violence and pain for Indigenous communities. WWALK community members, specifically white community members, are expected to take the necessary steps to conduct ethical research and to educate themselves to avoid perpetuating harm through unintentionally racist interactions. If you are unsure how to start doing this, please consult WWALK’s anti-oppression resource list and/or talk to other WWALK graduate students about their practices/what they have learned.\nAbove we listed overtly exclusionary behaviours, however non-inclusive behavior can often include more subtle or indirect actions (i.e., microaggressions), and these actions can contribute to a hostile environment. Exclusionary behavior includes actions which may not target specific individuals but nevertheless contribute to an unwelcoming environment, and includes but is not limited to: preferential treatment of people based on markers of status or belonging in dominant social groups, dominating discussion or allowing specific individuals to dominate or talk-over discussion, and making statements or taking actions that contribute to the marginalization or ‘othering’ of groups of people. Exclusionary behavior can also manifest in scientific practice or policy development, and includes implicit or explicit endorsement of conservation or environmental actions that do harm to people living in those spaces, or exploitative extraction of data, labour or resources.\nTo make clear what is expected, we ask all members of the community to conform to the following Code of Conduct.\n\nAll professional communication - online and in person - should be appropriate for a professional audience including people of many different backgrounds. Sexual or discriminatory language and imagery is not appropriate at any time.\nBe kind to others. Criticism is essential in science, but it must be constructive if we’re going to move forward in a supportive, inclusive way. Also be kind to yourself - criticism of your work is not criticism of you as a person. Responsibility for not causing harm lies with the critic, but learning to take feedback with humility and honesty is important too.\nBehave professionally. Harassment and sexist, racist, or exclusionary jokes are never appropriate, but even more generally, treat others with respect. Give colleagues your attention and courtesy.\nPlease make an effort to make an inclusive environment for everyone. Professionalism is not simply the absence of negative behaviours, but actively fostering positive interactions. Give everyone a chance to talk and an opportunity to contribute. Don’t dominate, talk over, or try to compete with your colleagues. Lift up and make space.\nBe aware that your actions can be hurtful to others or contribute to a negative environment even if you had no intent of harm. Impact =/= intent; we all make missteps. That’s ok! Listen. Offer a genuine apology. Commit to learning and doing better.\n\nUnacceptable behaviour includes offensive verbal and/or written comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.\nParticipants asked to stop any harassing or discriminatory behaviour are expected to comply immediately.\nMembers of the community who violate these rules - no matter how much they have contributed to the WWALK lab, or how specialized their skill set - will be approached by Ally. If inappropriate behaviour persists after a discussion with Ally, the issue will be escalated according to procedures laid out at the University of Calgary (see Resources below). The process may differ depending on the role of the individual (e.g., student, postdoc, employee).\nAs head of the WWALK Lab, Ally is the community leader in charge of handling issues regarding breaches in the code of conduct. You can report any issue to Ally and all communication will be treated as confidential. If the issue you have includes Ally, you can report it to ??.\n\n\n\nUniversity of Calgary: Code of Conduct\nUniversity of Calgary: Complaints and Investigating Alleged Breaches\nUniversity of Calgary: Student Non-Academic Misconduct Procedure",
+    "crumbs": [
+      "Lab Policies",
+      "Lab Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "policies/01-code-of-conduct.html#resources",
+    "href": "policies/01-code-of-conduct.html#resources",
+    "title": "Lab Code of Conduct",
+    "section": "",
+    "text": "University of Calgary: Code of Conduct\nUniversity of Calgary: Complaints and Investigating Alleged Breaches\nUniversity of Calgary: Student Non-Academic Misconduct Procedure",
+    "crumbs": [
+      "Lab Policies",
+      "Lab Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "policies/03-data-management.html",
+    "href": "policies/03-data-management.html",
+    "title": "Data Management & Archiving",
+    "section": "",
+    "text": "The WWALK lab highly values scientific rigour and reproducibility. One of the ways that we ensure our science is rigorous and reproducible is through the consistent application of a data management and archiving policy.\nData comes in all shapes and sizes in this lab. This policy applies to you no matter how you collected and used your data (e.g., fieldwork, open data, camera traps, etc.). Data management should start before you start collecting your data, to ensure that it is done in a transparent and reproducible way and to facilitate data archiving.\n\n\n\n\nRegardless of whether you are using a tablet or paper, thinking about how you set up your data sheets so that data is clear and easy to input is important.\nIf using a tablet, make sure that there is a plan to back up the data to the cloud during data input in case the tablet is damaged or runs out of battery. Always bring a few paper datasheets in case of technological issues.\nIf putting out passive sensors and don’t need datasheets, make sure that there is a recording of the sensor IDs and locations.\n\n\n\nThe set up of the project is critical to the future interpretability of the project. There should be one folder (repository) dedicated to each “project” on your computer. Often this looks like one repository per manuscript or chapter of your thesis. In the context of R + RStudio, the easiest way to create an easily shareable project repository is to use a RStudio Project.\n\n\nWithin the repository, good file structure allows you to manage all the components of your (often large) projects, while facilitating easy sharing and reducing the risk of accidentally deleting/altering important files.\nOur lab generally sets up the file structure in a similar fashion (though it does not have to be exactly the same):\nproject\n└───data/\n    └───derived/\n    └───raw-data/\n└───R/\n└───script/\n└───graphics/\n└───README.md\nWhere the input/ folder includes all raw data (and associated metadata - LINK). This folder should be backed up in multiple places. The raw-data/ folder should be treated as read-only (do not edit these files directly). The derived/ folder includes the edited versions of raw data files used for subsequent analysis.\noutput/ folder includes all the outputs generated through your analysis. That could include spatial data, model outputs, summary tables, and more.\nR/ includes the scripts you use in your analysis. Obviously this example is specific to R but if you use a different coding language/multiple coding languages, you can adjust the name of the folder as is appropriate.\nWithin this folder, it should be easily identifiable which order scripts are used. The simplest way to do this is to name them sequentially. For example:\n1-DataCleaning.R\n2-DataPrep.R\n3-Model.R\n4-ModelFigure.R\ngraphics/ holds all the figures and graphics that you produce through your analysis.\nFinally, the README.md file can act as a type of metadata or project overview : it facilitates people using your data, script, etc. There are some basic requirements from a README in order to make your work usable. We need to know:\n\nhow the data is structured what it describes\nhow to read it (e.g. column headings and units)\nmethodological information such as instrument settings and calibrations, reagents used, or survey questions\nexactly what they are allowed to do with the data through rights metadata such as licensing\nhow to acknowledge the original creators by citing the data\n\nNOTE: there is a second way that some people in the lab set up their repositories - the {targets} package for setting up analysis as a pipeline. This approach will change the setup and how you interact with the code slightly. For more details, see this workshop developed by lab member Bella and their colleague, Alec Robitaille.\n\n\n\nGitHub is a version control software, that allows you to track changes you make to your project while also facilitating collaboration, easy sharing, and backups.\nFrom missing semester:\n\nVersion control systems (VCSs) are tools used to track changes to source code (or other collections of files and folders). As the name implies, these tools help maintain a history of changes; furthermore, they facilitate collaboration. VCSs track changes to a folder and its contents in a series of snapshots, where each snapshot encapsulates the entire state of files/folders within a top-level directory. VCSs also maintain metadata like who created each snapshot, messages associated with each snapshot, and so on.\n\n\nWhy is version control useful? Even when you’re working by yourself, it can let you look at old snapshots of a project, keep a log of why certain changes were made, work on parallel branches of development, and much more. When working with others, it’s an invaluable tool for seeing what other people have changed, as well as resolving conflicts in concurrent development.\n\nEach student project in the WWALK lab can go on your personal GitHub or on the lab GitHub. Setting your repository(ies) up before you are done data collection/have started coding, allows for a smooth transition. Many people in the lab have experience setting up GitHub repositories and using git, so if you are wondering how to do this, reach out to your labmates. There are also many online resources, some of which are linked in References.\nSome things to consider when using git:\n\nlarge files: GitHub repositories cannot store individual files &gt; 100 MB or repositories &gt; 10 GB. If you have large file(s), add them to your .gitignore document (see more here)\nprivate vs public: scientists generally publish our repositories as public as part of our commitment to open science. However, some data (and associated code) should NOT be publicly visible (e.g., interview data). Make sure to take all appropriate privacy precautions when working with git and when publicly archiving data.\n\n\n\n\n\n\n\nImmediately upon data collection, you should be backing up your raw data files. Your raw data should be stored on your computer, the lab computer, and a cloud system. If you are collecting your data over months or years, your back up system should be established as soon as you have collected any raw data and added to as data collection continues.\nPersonal Computers Have your raw-data clearly labelled and in an easily-identifiable folder (see Project Repository section above). Treat the raw-data files as read-only and make copies of them before ever editing.\nLab Computers The lab computer in the WWALK lab can be accessed in person and remotely. Check details here on how to connect, so that you can back up your computer.\nCloud Storage As UCal students, you are given 100GB of OneDrive storage associated with your student email. This is a convenient cloud storage solution for most people in the lab. If this is not enough storage, contact the IT department for more storage solutions and/or discuss with Ally.\n\n\n\nAll raw data files associated with your project should have accompanying metadata. There are many approaches to how to format and prepare metadata. If you are interested in learning more, you can check out these resources:\nRESOURCES\nFor this lab, the minimum level of metadata that should be included is a text file found with your raw data that specifies the file name, general description of file, and a description of every column (with units).\nFor example, if your raw-data/ folder looked something like:\nraw-data/\n└───dataset1.csv\n└───dataset2.csv\n└───metadata.txt\nThe metadata.txt file could look something like:\nProject: Example Project\nAuthor: Isabella Richmond \nDate: 21-05-2026\n\nThis project is a collaboration between X and Y to determmine the effect of A on B. Data collection occured HERE, at this TIME.\n\nThis metadata file describes the variables in each of the datasets that accompany: THESIS OR PAPER TITLE (link if published + pdf in folder)\n\nCode can be found: (in folder or on GitHub)\n\nDATASETS (go through each csv in the folder and describe each column)\n\ndataset: dataset1.csv\noverall description: \ncolumn_1: description of column 1 (units)\ncolumn_2: description of column 2 (units)\n\n\ndataset: dataset2.csv\noverall description: \ncolumn_1: description of column 1 (units)\ncolumn_2: description of column 2 (units)\nNote: before archiving your data, make sure that all data files are accompanied by metadata. For many of us, clear and comprehensive metadata is a condition of our data sharing agreements. This is a critical output, that should never be skipped.\nTip: writing your metadata as you are inputting your raw data can be very helpful when writing your methods section, so you don’t forget any details or units for measurements.\n\n\n\n\nAfter finishing your project(s) in the lab, you are expected to archive all data, metadata, and code that was used for your project.\nAll data should always be accompanied with metadata.\n\nArchiving publicly\n\nMany of you will already have some version of your code/data published and archived in public spaces (e.g., GitHub, Zenodo, figshare). This is great! Make sure it is clear in your paper or thesis where to find these resources, so that future students/collaborators/Ally can find them in the future.\nIf you are using GitHub, you are welcome to have your code repository hosted on your personal GitHub account. You are also welcome to host it on the WWALK GitHub account, so that it is more easily found by WWALKers. Even if on the WWALK GitHub, all the commits will be associated to your account and it will be clear that you are the one who did the work. You can also pin the repository to your user profile, so that people visiting your account can see it.\nIf you want to change the ownership of a repository (transfer it to your account from the WWALK account or vice versa), see this page\n\nArchiving on lab computer\n\nIn addition to public archiving, you are expected to archive your project physically in the lab.\nIf all of your code, data, and metadata is already archived publicly, this can be as easy as downloading a zip file and putting it WHERE.\nIf some of your data is not suitable to be publicly available, you may need to add it to your publicly archived version and set permission restrictions on the folder on WHERE so that only yourself and Ally can access the folder.\nTo archive your project on WHERE, remotely (or locally) connect to the lab computer and add data, metadata, code, thesis/paper(s), and any presentations to WHERE in a folder that is titled YOUR_NAME_YEAR.\n\n\n\nR for Reproducible Scientific Analysis:\nEfficient R Programming\nARDC Metadata Guide\nZULE’s Data and GitHub Crash Course\nData Analysis & Visualization in R for Ecologists\nData Organization in Spreadsheets for Ecologists\nVersion Control with Git and GitHub\nhappygitwithr\nOpen Access to Research Data\nVal Lucet’s Git Workshop",
+    "crumbs": [
+      "Lab Policies",
+      "WWALK Data Management"
+    ]
+  },
+  {
+    "objectID": "policies/03-data-management.html#before-you-collect-data",
+    "href": "policies/03-data-management.html#before-you-collect-data",
+    "title": "Data Management & Archiving",
+    "section": "",
+    "text": "Regardless of whether you are using a tablet or paper, thinking about how you set up your data sheets so that data is clear and easy to input is important.\nIf using a tablet, make sure that there is a plan to back up the data to the cloud during data input in case the tablet is damaged or runs out of battery. Always bring a few paper datasheets in case of technological issues.\nIf putting out passive sensors and don’t need datasheets, make sure that there is a recording of the sensor IDs and locations.\n\n\n\nThe set up of the project is critical to the future interpretability of the project. There should be one folder (repository) dedicated to each “project” on your computer. Often this looks like one repository per manuscript or chapter of your thesis. In the context of R + RStudio, the easiest way to create an easily shareable project repository is to use a RStudio Project.\n\n\nWithin the repository, good file structure allows you to manage all the components of your (often large) projects, while facilitating easy sharing and reducing the risk of accidentally deleting/altering important files.\nOur lab generally sets up the file structure in a similar fashion (though it does not have to be exactly the same):\nproject\n└───data/\n    └───derived/\n    └───raw-data/\n└───R/\n└───script/\n└───graphics/\n└───README.md\nWhere the input/ folder includes all raw data (and associated metadata - LINK). This folder should be backed up in multiple places. The raw-data/ folder should be treated as read-only (do not edit these files directly). The derived/ folder includes the edited versions of raw data files used for subsequent analysis.\noutput/ folder includes all the outputs generated through your analysis. That could include spatial data, model outputs, summary tables, and more.\nR/ includes the scripts you use in your analysis. Obviously this example is specific to R but if you use a different coding language/multiple coding languages, you can adjust the name of the folder as is appropriate.\nWithin this folder, it should be easily identifiable which order scripts are used. The simplest way to do this is to name them sequentially. For example:\n1-DataCleaning.R\n2-DataPrep.R\n3-Model.R\n4-ModelFigure.R\ngraphics/ holds all the figures and graphics that you produce through your analysis.\nFinally, the README.md file can act as a type of metadata or project overview : it facilitates people using your data, script, etc. There are some basic requirements from a README in order to make your work usable. We need to know:\n\nhow the data is structured what it describes\nhow to read it (e.g. column headings and units)\nmethodological information such as instrument settings and calibrations, reagents used, or survey questions\nexactly what they are allowed to do with the data through rights metadata such as licensing\nhow to acknowledge the original creators by citing the data\n\nNOTE: there is a second way that some people in the lab set up their repositories - the {targets} package for setting up analysis as a pipeline. This approach will change the setup and how you interact with the code slightly. For more details, see this workshop developed by lab member Bella and their colleague, Alec Robitaille.\n\n\n\nGitHub is a version control software, that allows you to track changes you make to your project while also facilitating collaboration, easy sharing, and backups.\nFrom missing semester:\n\nVersion control systems (VCSs) are tools used to track changes to source code (or other collections of files and folders). As the name implies, these tools help maintain a history of changes; furthermore, they facilitate collaboration. VCSs track changes to a folder and its contents in a series of snapshots, where each snapshot encapsulates the entire state of files/folders within a top-level directory. VCSs also maintain metadata like who created each snapshot, messages associated with each snapshot, and so on.\n\n\nWhy is version control useful? Even when you’re working by yourself, it can let you look at old snapshots of a project, keep a log of why certain changes were made, work on parallel branches of development, and much more. When working with others, it’s an invaluable tool for seeing what other people have changed, as well as resolving conflicts in concurrent development.\n\nEach student project in the WWALK lab can go on your personal GitHub or on the lab GitHub. Setting your repository(ies) up before you are done data collection/have started coding, allows for a smooth transition. Many people in the lab have experience setting up GitHub repositories and using git, so if you are wondering how to do this, reach out to your labmates. There are also many online resources, some of which are linked in References.\nSome things to consider when using git:\n\nlarge files: GitHub repositories cannot store individual files &gt; 100 MB or repositories &gt; 10 GB. If you have large file(s), add them to your .gitignore document (see more here)\nprivate vs public: scientists generally publish our repositories as public as part of our commitment to open science. However, some data (and associated code) should NOT be publicly visible (e.g., interview data). Make sure to take all appropriate privacy precautions when working with git and when publicly archiving data.",
+    "crumbs": [
+      "Lab Policies",
+      "WWALK Data Management"
+    ]
+  },
+  {
+    "objectID": "policies/03-data-management.html#post-data-collection",
+    "href": "policies/03-data-management.html#post-data-collection",
+    "title": "Data Management & Archiving",
+    "section": "",
+    "text": "Immediately upon data collection, you should be backing up your raw data files. Your raw data should be stored on your computer, the lab computer, and a cloud system. If you are collecting your data over months or years, your back up system should be established as soon as you have collected any raw data and added to as data collection continues.\nPersonal Computers Have your raw-data clearly labelled and in an easily-identifiable folder (see Project Repository section above). Treat the raw-data files as read-only and make copies of them before ever editing.\nLab Computers The lab computer in the WWALK lab can be accessed in person and remotely. Check details here on how to connect, so that you can back up your computer.\nCloud Storage As UCal students, you are given 100GB of OneDrive storage associated with your student email. This is a convenient cloud storage solution for most people in the lab. If this is not enough storage, contact the IT department for more storage solutions and/or discuss with Ally.\n\n\n\nAll raw data files associated with your project should have accompanying metadata. There are many approaches to how to format and prepare metadata. If you are interested in learning more, you can check out these resources:\nRESOURCES\nFor this lab, the minimum level of metadata that should be included is a text file found with your raw data that specifies the file name, general description of file, and a description of every column (with units).\nFor example, if your raw-data/ folder looked something like:\nraw-data/\n└───dataset1.csv\n└───dataset2.csv\n└───metadata.txt\nThe metadata.txt file could look something like:\nProject: Example Project\nAuthor: Isabella Richmond \nDate: 21-05-2026\n\nThis project is a collaboration between X and Y to determmine the effect of A on B. Data collection occured HERE, at this TIME.\n\nThis metadata file describes the variables in each of the datasets that accompany: THESIS OR PAPER TITLE (link if published + pdf in folder)\n\nCode can be found: (in folder or on GitHub)\n\nDATASETS (go through each csv in the folder and describe each column)\n\ndataset: dataset1.csv\noverall description: \ncolumn_1: description of column 1 (units)\ncolumn_2: description of column 2 (units)\n\n\ndataset: dataset2.csv\noverall description: \ncolumn_1: description of column 1 (units)\ncolumn_2: description of column 2 (units)\nNote: before archiving your data, make sure that all data files are accompanied by metadata. For many of us, clear and comprehensive metadata is a condition of our data sharing agreements. This is a critical output, that should never be skipped.\nTip: writing your metadata as you are inputting your raw data can be very helpful when writing your methods section, so you don’t forget any details or units for measurements.",
+    "crumbs": [
+      "Lab Policies",
+      "WWALK Data Management"
+    ]
+  },
+  {
+    "objectID": "policies/03-data-management.html#when-the-project-ends",
+    "href": "policies/03-data-management.html#when-the-project-ends",
+    "title": "Data Management & Archiving",
+    "section": "",
+    "text": "After finishing your project(s) in the lab, you are expected to archive all data, metadata, and code that was used for your project.\nAll data should always be accompanied with metadata.\n\nArchiving publicly\n\nMany of you will already have some version of your code/data published and archived in public spaces (e.g., GitHub, Zenodo, figshare). This is great! Make sure it is clear in your paper or thesis where to find these resources, so that future students/collaborators/Ally can find them in the future.\nIf you are using GitHub, you are welcome to have your code repository hosted on your personal GitHub account. You are also welcome to host it on the WWALK GitHub account, so that it is more easily found by WWALKers. Even if on the WWALK GitHub, all the commits will be associated to your account and it will be clear that you are the one who did the work. You can also pin the repository to your user profile, so that people visiting your account can see it.\nIf you want to change the ownership of a repository (transfer it to your account from the WWALK account or vice versa), see this page\n\nArchiving on lab computer\n\nIn addition to public archiving, you are expected to archive your project physically in the lab.\nIf all of your code, data, and metadata is already archived publicly, this can be as easy as downloading a zip file and putting it WHERE.\nIf some of your data is not suitable to be publicly available, you may need to add it to your publicly archived version and set permission restrictions on the folder on WHERE so that only yourself and Ally can access the folder.\nTo archive your project on WHERE, remotely (or locally) connect to the lab computer and add data, metadata, code, thesis/paper(s), and any presentations to WHERE in a folder that is titled YOUR_NAME_YEAR.",
+    "crumbs": [
+      "Lab Policies",
+      "WWALK Data Management"
+    ]
+  },
+  {
+    "objectID": "policies/03-data-management.html#references",
+    "href": "policies/03-data-management.html#references",
+    "title": "Data Management & Archiving",
+    "section": "",
+    "text": "R for Reproducible Scientific Analysis:\nEfficient R Programming\nARDC Metadata Guide\nZULE’s Data and GitHub Crash Course\nData Analysis & Visualization in R for Ecologists\nData Organization in Spreadsheets for Ecologists\nVersion Control with Git and GitHub\nhappygitwithr\nOpen Access to Research Data\nVal Lucet’s Git Workshop",
+    "crumbs": [
+      "Lab Policies",
+      "WWALK Data Management"
+    ]
+  },
+  {
+    "objectID": "policies/02-joining-lab.html",
+    "href": "policies/02-joining-lab.html",
+    "title": "Incoming Student Checklist",
+    "section": "",
+    "text": "General application information for graduate school at UCalgary can be found here\nThere is Biology department specific information for MSc and PhD\nIf you are an Indigenous student, there are some specific funding sources you may be eligible for - more info here\nInternational students apply in the same way as domestic students but once approved, you will need to apply for a study permit\n\nFor information on applying for immigration after you have received your admission offer, please contact issimmigration@ucalgary.ca\n\n\n\n\n\nApplication requirements can be found on the home page, with more detailed information here and Biology specific info here\n\n\n\n\ncan only find undergrad deadlines???\n\n\n\n\n\n\n\nDeadlines for the current calendar year can be found here, make sure you enroll before then!\nCourse drop deadlines also change year to year, check the academic calendar for the last date where you can drop without a financial penalty\n\nFor example, 2026-2027\n\n\n\n\n\n\nRegistration in BIOL 601.05 (fall) & BIOL 601.06 (winter) are mandatory for MSc and PhD Ecology students (other course codes will apply to different majors)\n\nBIOL601 is a seminar course (non-graded & just for credit) & it must be taken 4 times in the first 2 years of your degree (each semester for 2 years)\n\nIn your first year, your presentation will usually fall in the second half (winter) & in your second year, your presentation will be in the first half (fall)\nIf you started in the winter semester your first presentation would be in the fall of the next academic year\n\n\nFor an MSc/PhD you will require 2 additional classes (6 credits) to meet the requirements for graduation\n\nHalf of all coursework (1 class) has to be at the graduate / 600 level, the other half (1 course) can be an undergraduate level course (level 500) if subject is appropriate and approval from the graduate program is given\nA list of past graduate courses can be found here but course offerings change every year so talk to labmates/PI for a more relevant list of courses\nCourses can be taken from outside your department, with permission from the graduate program It is best to talk to your supervisor to discuss the best course options for your program\n\n\n\n\n\n\nDepartment Head: David Hansen (dhansen@ucalgary.ca)\n\nContact for escalated issues, including unresolved faculty conflicts or administrative appeals\n\nGraduate Program Director: Paul Galpern (paul.galpern@ucalgary.ca)\n\nContact for program-specific needs like course requirements, supervisory or committee issues, funding concerns; program interruptions & leaves; policy exceptions (course substitution, program transfer, or exceptional changes to degree requirements)\n\n\n\n\n\n\nTuition fees for all thesis-based graduate programs can be found here\nOnce a registered student, make sure you log in to your student portal (dashboard &gt; student &gt; my financials) to check if you have an amount owing\n\nTuition fee calendar: https://www.ucalgary.ca/registrar/finances/pay-your-fees\nThey do NOT send reminders to pay! If you are late on your tuition payment, you can accrue interest (details)\n\nYou can apply for payment plans if you are not able to pay for your entire tuition at once\nYou are required to pay tuition 4x per year: fall, winter, spring, summer\nYour tuition includes other services which are active year-round: bus pass gym membership insurance\n\n\n\n\n\nAs a graduate student you are covered under the graduate health & dental insurance plan\nYou may choose to opt out of the provided graduate health & dental insurance if you are covered by another insurance company (i.e. your parents coverage, etc.)\n\nOpt out dates are usually mid-month of the first month you register but can be found here\n\nLogin here to see your benefits and/or to submit a claim\nYou can add your spouse and children as dependents on your insurance policy, it must be done every year\n\nThere are associated fees with adding dependents\nAdd dependents by going to studentbenefits.ca, clicking on “UCGSA” and “Add Dependants”, and completing the form in full. Once approved, the fee will be applied to your student account. The deadline depends on the date your course begins.\n\nINTERNATIONAL STUDENTS\n\n\n\n\n\n\n\n\nGrocery stores\n\nSave on Foods (University District): Slightly more expensive but you get a 10% student discount with your UCID and they have a points/saving card you can get for free\nFreshco: In Brentwood, just over the bridge at the NE side of campus\n\nLower general prices and good sales\n\nH&W produce: in the north-east, offers very cheap produce!\n\nMalls\n\nMarket Mall: Right near the university & has most things you might need\nCross Iron Mills: Need a car to drive there but its a bigger mall with some good sales (it’s an outlet)\n\nOther stores\n\nDollarama: In Brentwood near the freshco\nIkea: Heritage (it’s a bit far and not very accessible by transit)\nStaples: good for quick-printing and school supplies \n\nDiscounts (a lot of stores in the University District offer discounts to students)\n\nCobs Bread, Save on Foods & barBurrito",
+    "crumbs": [
+      "Lab Policies",
+      "Joining the Lab"
+    ]
+  },
+  {
+    "objectID": "policies/02-joining-lab.html#application-information",
+    "href": "policies/02-joining-lab.html#application-information",
+    "title": "Incoming Student Checklist",
+    "section": "",
+    "text": "General application information for graduate school at UCalgary can be found here\nThere is Biology department specific information for MSc and PhD\nIf you are an Indigenous student, there are some specific funding sources you may be eligible for - more info here\nInternational students apply in the same way as domestic students but once approved, you will need to apply for a study permit\n\nFor information on applying for immigration after you have received your admission offer, please contact issimmigration@ucalgary.ca\n\n\n\n\n\nApplication requirements can be found on the home page, with more detailed information here and Biology specific info here\n\n\n\n\ncan only find undergrad deadlines???",
+    "crumbs": [
+      "Lab Policies",
+      "Joining the Lab"
+    ]
+  },
+  {
+    "objectID": "policies/02-joining-lab.html#general-ucal-information",
+    "href": "policies/02-joining-lab.html#general-ucal-information",
+    "title": "Incoming Student Checklist",
+    "section": "",
+    "text": "Deadlines for the current calendar year can be found here, make sure you enroll before then!\nCourse drop deadlines also change year to year, check the academic calendar for the last date where you can drop without a financial penalty\n\nFor example, 2026-2027\n\n\n\n\n\n\nRegistration in BIOL 601.05 (fall) & BIOL 601.06 (winter) are mandatory for MSc and PhD Ecology students (other course codes will apply to different majors)\n\nBIOL601 is a seminar course (non-graded & just for credit) & it must be taken 4 times in the first 2 years of your degree (each semester for 2 years)\n\nIn your first year, your presentation will usually fall in the second half (winter) & in your second year, your presentation will be in the first half (fall)\nIf you started in the winter semester your first presentation would be in the fall of the next academic year\n\n\nFor an MSc/PhD you will require 2 additional classes (6 credits) to meet the requirements for graduation\n\nHalf of all coursework (1 class) has to be at the graduate / 600 level, the other half (1 course) can be an undergraduate level course (level 500) if subject is appropriate and approval from the graduate program is given\nA list of past graduate courses can be found here but course offerings change every year so talk to labmates/PI for a more relevant list of courses\nCourses can be taken from outside your department, with permission from the graduate program It is best to talk to your supervisor to discuss the best course options for your program\n\n\n\n\n\n\nDepartment Head: David Hansen (dhansen@ucalgary.ca)\n\nContact for escalated issues, including unresolved faculty conflicts or administrative appeals\n\nGraduate Program Director: Paul Galpern (paul.galpern@ucalgary.ca)\n\nContact for program-specific needs like course requirements, supervisory or committee issues, funding concerns; program interruptions & leaves; policy exceptions (course substitution, program transfer, or exceptional changes to degree requirements)\n\n\n\n\n\n\nTuition fees for all thesis-based graduate programs can be found here\nOnce a registered student, make sure you log in to your student portal (dashboard &gt; student &gt; my financials) to check if you have an amount owing\n\nTuition fee calendar: https://www.ucalgary.ca/registrar/finances/pay-your-fees\nThey do NOT send reminders to pay! If you are late on your tuition payment, you can accrue interest (details)\n\nYou can apply for payment plans if you are not able to pay for your entire tuition at once\nYou are required to pay tuition 4x per year: fall, winter, spring, summer\nYour tuition includes other services which are active year-round: bus pass gym membership insurance\n\n\n\n\n\nAs a graduate student you are covered under the graduate health & dental insurance plan\nYou may choose to opt out of the provided graduate health & dental insurance if you are covered by another insurance company (i.e. your parents coverage, etc.)\n\nOpt out dates are usually mid-month of the first month you register but can be found here\n\nLogin here to see your benefits and/or to submit a claim\nYou can add your spouse and children as dependents on your insurance policy, it must be done every year\n\nThere are associated fees with adding dependents\nAdd dependents by going to studentbenefits.ca, clicking on “UCGSA” and “Add Dependants”, and completing the form in full. Once approved, the fee will be applied to your student account. The deadline depends on the date your course begins.\n\nINTERNATIONAL STUDENTS",
+    "crumbs": [
+      "Lab Policies",
+      "Joining the Lab"
+    ]
+  },
+  {
+    "objectID": "policies/02-joining-lab.html#city-of-calgary-information",
+    "href": "policies/02-joining-lab.html#city-of-calgary-information",
+    "title": "Incoming Student Checklist",
+    "section": "",
+    "text": "Grocery stores\n\nSave on Foods (University District): Slightly more expensive but you get a 10% student discount with your UCID and they have a points/saving card you can get for free\nFreshco: In Brentwood, just over the bridge at the NE side of campus\n\nLower general prices and good sales\n\nH&W produce: in the north-east, offers very cheap produce!\n\nMalls\n\nMarket Mall: Right near the university & has most things you might need\nCross Iron Mills: Need a car to drive there but its a bigger mall with some good sales (it’s an outlet)\n\nOther stores\n\nDollarama: In Brentwood near the freshco\nIkea: Heritage (it’s a bit far and not very accessible by transit)\nStaples: good for quick-printing and school supplies \n\nDiscounts (a lot of stores in the University District offer discounts to students)\n\nCobs Bread, Save on Foods & barBurrito",
+    "crumbs": [
+      "Lab Policies",
+      "Joining the Lab"
+    ]
+  },
+  {
+    "objectID": "templates/05-issa-resources.html",
+    "href": "templates/05-issa-resources.html",
+    "title": "Crash course: iSSAs",
+    "section": "",
+    "text": "Crash course: iSSAs",
+    "crumbs": [
+      "Templates & Tutorials",
+      "iSSA Walkthrough"
+    ]
+  },
+  {
+    "objectID": "templates/00-templates.html",
+    "href": "templates/00-templates.html",
+    "title": "Templates",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nCrash course: Estimating species densities with camera traps\n\n\n \n\n\n \n\n\n\n\n\n\nCrash course: Weaving knowledge in Bayesian networks\n\n\n \n\n\n \n\n\n\n\n\n\nCrash course: iSSAs\n\n\n \n\n\n \n\n\n\n\n\n\nData Sharing Agreements\n\n\n \n\n\n \n\n\n\n\n\n\nEthics Applications\n\n\n \n\n\n \n\n\n\n\n\n\nThesis Formatting\n\n\n \n\n\n \n\n\n\n\n\n\nThesis Proposal\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Templates & Tutorials"
+    ]
+  },
+  {
+    "objectID": "templates/02-ethics.html",
+    "href": "templates/02-ethics.html",
+    "title": "Ethics Applications",
+    "section": "",
+    "text": "Ethics Applications",
+    "crumbs": [
+      "Templates & Tutorials",
+      "University of Calgary Ethics Application"
+    ]
+  },
+  {
+    "objectID": "templates/04-thesis.html",
+    "href": "templates/04-thesis.html",
+    "title": "Thesis Formatting",
+    "section": "",
+    "text": "Thesis Formatting",
+    "crumbs": [
+      "Templates & Tutorials",
+      "Thesis"
+    ]
+  },
+  {
+    "objectID": "resources/00-lab-resources.html",
+    "href": "resources/00-lab-resources.html",
+    "title": "Lab Resources",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nAnti-Oppression Resource List\n\n\n \n\n\n \n\n\n\n\n\n\nHow to apply for grants (with examples)\n\n\n \n\n\n \n\n\n\n\n\n\nHow to file expense reports\n\n\n \n\n\n \n\n\n\n\n\n\nOngoing Research Projects\n\n\n \n\n\n \n\n\n\n\n\n\nShelby’s Illustrations\n\n\n \n\n\n \n\n\n\n\n\n\nWWALK (and UCalgary) Field Safety\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Lab Resources"
+    ]
+  },
+  {
+    "objectID": "resources/02-research.html",
+    "href": "resources/02-research.html",
+    "title": "Ongoing Research Projects",
+    "section": "",
+    "text": "Ongoing Research Projects",
+    "crumbs": [
+      "Lab Resources",
+      "Ongoing Research Projects & Partners"
+    ]
+  },
+  {
+    "objectID": "resources/01-shelby-images.html",
+    "href": "resources/01-shelby-images.html",
+    "title": "Shelby’s Illustrations",
+    "section": "",
+    "text": "Shelby’s Illustrations\nThis page is to display all the art that Shelby has created for the lab. For high-quality downloads go to the art folder on the lab’s private github repository (you need to be signed in and have access to this repo to view the files).",
+    "crumbs": [
+      "Lab Resources",
+      "Shelby's Drawings"
     ]
   },
   {
@@ -88,318 +444,13 @@
     ]
   },
   {
-    "objectID": "resources/01-shelby-images.html",
-    "href": "resources/01-shelby-images.html",
-    "title": "Shelby’s Illustrations",
+    "objectID": "other-resources/00-other-resources.html",
+    "href": "other-resources/00-other-resources.html",
+    "title": "Other Resources",
     "section": "",
-    "text": "Shelby’s Illustrations\nThis page is to display all the art that Shelby has created for the lab. For high-quality downloads go to the art folder on the lab’s private github repository (you need to be signed in and have access to this repo to view the files).",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nFrequent Links (+ Private Stuff)\n\n\n \n\n\n \n\n\n\n\n\n\nUniversity of Calgary Server\n\n\n \n\n\n \n\n\n\n\n\n\nWWALK Reading List\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "Lab Resources",
-      "Shelby's Drawings"
-    ]
-  },
-  {
-    "objectID": "resources/02-research.html",
-    "href": "resources/02-research.html",
-    "title": "Ongoing Research Projects",
-    "section": "",
-    "text": "Ongoing Research Projects",
-    "crumbs": [
-      "Lab Resources",
-      "Ongoing Research Projects & Partners"
-    ]
-  },
-  {
-    "objectID": "resources/00-lab-resources.html",
-    "href": "resources/00-lab-resources.html",
-    "title": "Lab Resources",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nAnti-Oppression Resource List\n\n\n \n\n\n \n\n\n\n\n\n\nHow to apply for grants (with examples)\n\n\n \n\n\n \n\n\n\n\n\n\nHow to file expense reports\n\n\n \n\n\n \n\n\n\n\n\n\nOngoing Research Projects\n\n\n \n\n\n \n\n\n\n\n\n\nShelby’s Illustrations\n\n\n \n\n\n \n\n\n\n\n\n\nWWALK (and UCalgary) Field Safety\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Lab Resources"
-    ]
-  },
-  {
-    "objectID": "templates/04-thesis.html",
-    "href": "templates/04-thesis.html",
-    "title": "Thesis Formatting",
-    "section": "",
-    "text": "Thesis Formatting",
-    "crumbs": [
-      "Templates & Tutorials",
-      "Thesis"
-    ]
-  },
-  {
-    "objectID": "templates/02-ethics.html",
-    "href": "templates/02-ethics.html",
-    "title": "Ethics Applications",
-    "section": "",
-    "text": "Ethics Applications",
-    "crumbs": [
-      "Templates & Tutorials",
-      "University of Calgary Ethics Application"
-    ]
-  },
-  {
-    "objectID": "templates/00-templates.html",
-    "href": "templates/00-templates.html",
-    "title": "Templates",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nCrash course: Estimating species densities with camera traps\n\n\n \n\n\n \n\n\n\n\n\n\nCrash course: Weaving knowledge in Bayesian networks\n\n\n \n\n\n \n\n\n\n\n\n\nCrash course: iSSAs\n\n\n \n\n\n \n\n\n\n\n\n\nData Sharing Agreements\n\n\n \n\n\n \n\n\n\n\n\n\nEthics Applications\n\n\n \n\n\n \n\n\n\n\n\n\nThesis Formatting\n\n\n \n\n\n \n\n\n\n\n\n\nThesis Proposal\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Templates & Tutorials"
-    ]
-  },
-  {
-    "objectID": "templates/05-issa-resources.html",
-    "href": "templates/05-issa-resources.html",
-    "title": "Crash course: iSSAs",
-    "section": "",
-    "text": "Crash course: iSSAs",
-    "crumbs": [
-      "Templates & Tutorials",
-      "iSSA Walkthrough"
-    ]
-  },
-  {
-    "objectID": "policies/02-joining-lab.html",
-    "href": "policies/02-joining-lab.html",
-    "title": "Tips and tricks for students joining the lab",
-    "section": "",
-    "text": "Tips and tricks for students joining the lab",
-    "crumbs": [
-      "Lab Policies",
-      "Joining the Lab"
-    ]
-  },
-  {
-    "objectID": "policies/03-data-management.html",
-    "href": "policies/03-data-management.html",
-    "title": "Data Archiving Policy",
-    "section": "",
-    "text": "After finishing your project(s) in the lab, you are expected to archive all data, metadata, and code that was used for your project.\nAll data should always be accompanied with metadata.\n\n\nMany of you will already have some version of your code/data published and archived in public spaces (e.g., GitHub, Zenodo, figshare). This is great! Make sure it is clear in your paper or thesis where to find these resources, so that future students/collaborators/Ally can find them in the future.\nIf you are using GitHub, you are welcome to have your code repository hosted on your personal GitHub account. You are also welcome to host it on the WWALK GitHub account, so that it is more easily found by WWALKers. Even if on the WWALK GitHub, all the commits will be associated to your account and it will be clear that you are the one who did the work. You can also still pin the repository to your user profile, so that people visiting your account can see it.\nIf you want to change the ownership of a repository (transfer it to your account from the WWALK account or vice versa), see this page\n\n\n\nIn addition to public archiving, you are expected to archive your project physically in the lab.\nIf all of your code, data, and metadata is already archived publicly, this can be as easy as downloading a zip file and putting it WHERE.\nIf some of your data is not suitable to be publicly available, you may need to add it to your publicly archived version and set permission restrictions on the folder on WHERE so that only yourself and Ally can access the folder.\nTo archive your project on WHERE, remotely (or locally) connect to the lab computer and add data, metadata, code, thesis/paper(s), and any presentations to WHERE in a folder that is titled YOUR_NAME_YEAR.\n\n\n\nThere are many ways to create and organize metadata. In its simplest form, metadata should include the project title, author, date, description, and clear descriptions of the datasets used.\nMetadata files should be present in every folder that contains data that cannot be produced by the associated project’s code.\nMinimal example:\nProject: Example Project\nAuthor: Isabella Richmond \nDate: 21-05-2026\n\nThis project is a collaboration between X and Y to determmine the effect of A on B. Data collection occured HERE, at this TIME.\n\nThis metadata file describes the variables in each of the datasets that accompany: THESIS OR PAPER TITLE (link if published + pdf in folder)\n\nCode can be found: (in folder or on GitHub)\n\nDATASETS (go through each csv in the folder and describe each column)\n\ndataset: dataset1.csv\noverall description: \ncolumn_1: description of column 1 (units)\ncolumn_2: description of column 2 (units)\n\n\ndataset: dataset2.csv\noverall description: \ncolumn_1: description of column 1 (units)\ncolumn_2: description of column 2 (units)\nNote: for many of us, clear and comprehensive metadata is a condition of our data sharing agreements. This is a critical output, that should never be skipped.",
-    "crumbs": [
-      "Lab Policies",
-      "WWALK Data Management"
-    ]
-  },
-  {
-    "objectID": "policies/03-data-management.html#public-archiving",
-    "href": "policies/03-data-management.html#public-archiving",
-    "title": "Data Archiving Policy",
-    "section": "",
-    "text": "Many of you will already have some version of your code/data published and archived in public spaces (e.g., GitHub, Zenodo, figshare). This is great! Make sure it is clear in your paper or thesis where to find these resources, so that future students/collaborators/Ally can find them in the future.\nIf you are using GitHub, you are welcome to have your code repository hosted on your personal GitHub account. You are also welcome to host it on the WWALK GitHub account, so that it is more easily found by WWALKers. Even if on the WWALK GitHub, all the commits will be associated to your account and it will be clear that you are the one who did the work. You can also still pin the repository to your user profile, so that people visiting your account can see it.\nIf you want to change the ownership of a repository (transfer it to your account from the WWALK account or vice versa), see this page",
-    "crumbs": [
-      "Lab Policies",
-      "WWALK Data Management"
-    ]
-  },
-  {
-    "objectID": "policies/03-data-management.html#lab-archiving",
-    "href": "policies/03-data-management.html#lab-archiving",
-    "title": "Data Archiving Policy",
-    "section": "",
-    "text": "In addition to public archiving, you are expected to archive your project physically in the lab.\nIf all of your code, data, and metadata is already archived publicly, this can be as easy as downloading a zip file and putting it WHERE.\nIf some of your data is not suitable to be publicly available, you may need to add it to your publicly archived version and set permission restrictions on the folder on WHERE so that only yourself and Ally can access the folder.\nTo archive your project on WHERE, remotely (or locally) connect to the lab computer and add data, metadata, code, thesis/paper(s), and any presentations to WHERE in a folder that is titled YOUR_NAME_YEAR.",
-    "crumbs": [
-      "Lab Policies",
-      "WWALK Data Management"
-    ]
-  },
-  {
-    "objectID": "policies/03-data-management.html#metadata",
-    "href": "policies/03-data-management.html#metadata",
-    "title": "Data Archiving Policy",
-    "section": "",
-    "text": "There are many ways to create and organize metadata. In its simplest form, metadata should include the project title, author, date, description, and clear descriptions of the datasets used.\nMetadata files should be present in every folder that contains data that cannot be produced by the associated project’s code.\nMinimal example:\nProject: Example Project\nAuthor: Isabella Richmond \nDate: 21-05-2026\n\nThis project is a collaboration between X and Y to determmine the effect of A on B. Data collection occured HERE, at this TIME.\n\nThis metadata file describes the variables in each of the datasets that accompany: THESIS OR PAPER TITLE (link if published + pdf in folder)\n\nCode can be found: (in folder or on GitHub)\n\nDATASETS (go through each csv in the folder and describe each column)\n\ndataset: dataset1.csv\noverall description: \ncolumn_1: description of column 1 (units)\ncolumn_2: description of column 2 (units)\n\n\ndataset: dataset2.csv\noverall description: \ncolumn_1: description of column 1 (units)\ncolumn_2: description of column 2 (units)\nNote: for many of us, clear and comprehensive metadata is a condition of our data sharing agreements. This is a critical output, that should never be skipped.",
-    "crumbs": [
-      "Lab Policies",
-      "WWALK Data Management"
-    ]
-  },
-  {
-    "objectID": "policies/01-code-of-conduct.html",
-    "href": "policies/01-code-of-conduct.html",
-    "title": "Lab Code of Conduct",
-    "section": "",
-    "text": "Adapted from Christie Bahlai’s code of conduct\nScience is already hard. The work of making sure science isn’t harder than it needs to be is incumbent on all of us. We create our culture, and in the WWALK lab, our culture is rooted in humility, accountability, respect, equity, and anti-oppression.\nThrough our science and all that surrounds it, we strive to recognize and dismantle the systemic barriers placed upon marginalized people and to create a space where we/they can thrive. “Scientist” is a role comprised of many parts which cannot be isolated from each other, the parts include mentor, community member, statistician, communicator, advocate, writer, teacher, and more. The policies contained in this document encompass all of the roles we play.\nOppression and structures of power dynamics persist through being naturalized and invisible. To fight for equity, we all carry a responsibility to actively pay attention and call out the ways in which race, ethnicity, class, gender, sexual orientation, (dis)ability, and other factors affect our experiences and work against the oppressive systems causing these differences. Discrimination or harassment based on the above axes of marginalization, or any others, will not be tolerated. We do not tolerate harassment or discrimination by and/or of members of our community in any form.\nIn the WWALK Lab, we have the privilege of working with many Indigenous communities. This privilege comes with responsibilities of care, thoughtfulness, and humility. Scientific research has and continues to be a source of violence and pain for Indigenous communities. WWALK community members, specifically white community members, are expected to take the necessary steps to conduct ethical research and to educate themselves to avoid perpetuating harm through unintentionally racist interactions. If you are unsure how to start doing this, please consult WWALK’s anti-oppression resource list and/or talk to other WWALK graduate students about their practices/what they have learned.\nAbove we listed overtly exclusionary behaviours, however non-inclusive behavior can often include more subtle or indirect actions (i.e., microaggressions), and these actions can contribute to a hostile environment. Exclusionary behavior includes actions which may not target specific individuals but nevertheless contribute to an unwelcoming environment, and includes but is not limited to: preferential treatment of people based on markers of status or belonging in dominant social groups, dominating discussion or allowing specific individuals to dominate or talk-over discussion, and making statements or taking actions that contribute to the marginalization or ‘othering’ of groups of people. Exclusionary behavior can also manifest in scientific practice or policy development, and includes implicit or explicit endorsement of conservation or environmental actions that do harm to people living in those spaces, or exploitative extraction of data, labour or resources.\nTo make clear what is expected, we ask all members of the community to conform to the following Code of Conduct.\n\nAll professional communication - online and in person - should be appropriate for a professional audience including people of many different backgrounds. Sexual or discriminatory language and imagery is not appropriate at any time.\nBe kind to others. Criticism is essential in science, but it must be constructive if we’re going to move forward in a supportive, inclusive way. Also be kind to yourself - criticism of your work is not criticism of you as a person. Responsibility for not causing harm lies with the critic, but learning to take feedback with humility and honesty is important too.\nBehave professionally. Harassment and sexist, racist, or exclusionary jokes are never appropriate, but even more generally, treat others with respect. Give colleagues your attention and courtesy.\nPlease make an effort to make an inclusive environment for everyone. Professionalism is not simply the absence of negative behaviours, but actively fostering positive interactions. Give everyone a chance to talk and an opportunity to contribute. Don’t dominate, talk over, or try to compete with your colleagues. Lift up and make space.\nBe aware that your actions can be hurtful to others or contribute to a negative environment even if you had no intent of harm. Impact =/= intent; we all make missteps. That’s ok! Listen. Offer a genuine apology. Commit to learning and doing better.\n\nUnacceptable behaviour includes offensive verbal and/or written comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.\nParticipants asked to stop any harassing or discriminatory behaviour are expected to comply immediately.\nMembers of the community who violate these rules - no matter how much they have contributed to the WWALK lab, or how specialized their skill set - will be approached by Ally. If inappropriate behaviour persists after a discussion with Ally, the issue will be escalated according to procedures laid out at the University of Calgary (see Resources below). The process may differ depending on the role of the individual (e.g., student, postdoc, employee).\nAs head of the WWALK Lab, Ally is the community leader in charge of handling issues regarding breaches in the code of conduct. You can report any issue to Ally and all communication will be treated as confidential. If the issue you have includes Ally, you can report it to X.\n\n\n\nUniversity of Calgary: Code of Conduct\nUniversity of Calgary: Complaints and Investigating Alleged Breaches\nUniversity of Calgary: Student Non-Academic Misconduct Procedure",
-    "crumbs": [
-      "Lab Policies",
-      "Lab Code of Conduct"
-    ]
-  },
-  {
-    "objectID": "policies/01-code-of-conduct.html#resources",
-    "href": "policies/01-code-of-conduct.html#resources",
-    "title": "Lab Code of Conduct",
-    "section": "",
-    "text": "University of Calgary: Code of Conduct\nUniversity of Calgary: Complaints and Investigating Alleged Breaches\nUniversity of Calgary: Student Non-Academic Misconduct Procedure",
-    "crumbs": [
-      "Lab Policies",
-      "Lab Code of Conduct"
-    ]
-  },
-  {
-    "objectID": "ucal/02-thesis-requirements.html",
-    "href": "ucal/02-thesis-requirements.html",
-    "title": "Thesis Requirements",
-    "section": "",
-    "text": "Thesis Requirements",
-    "crumbs": [
-      "University of Calgary",
-      "UCalgary Thesis (and Proposal) Requirements"
-    ]
-  },
-  {
-    "objectID": "ucal/01-program-requirements.html",
-    "href": "ucal/01-program-requirements.html",
-    "title": "MSc and PhD Program Requirements",
-    "section": "",
-    "text": "MSc and PhD Program Requirements",
-    "crumbs": [
-      "University of Calgary",
-      "UCalgary Program Requirements"
-    ]
-  },
-  {
-    "objectID": "ucal/00-ucal.html",
-    "href": "ucal/00-ucal.html",
-    "title": "Universit of Calgary",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nMSc and PhD Program Requirements\n\n\n \n\n\n \n\n\n\n\n\n\nStudent resources\n\n\n \n\n\n \n\n\n\n\n\n\nThesis Requirements\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "University of Calgary"
-    ]
-  },
-  {
-    "objectID": "ucal/03-resources.html",
-    "href": "ucal/03-resources.html",
-    "title": "Student resources",
-    "section": "",
-    "text": "Student resources",
-    "crumbs": [
-      "University of Calgary",
-      "UCalgary Student Resources"
-    ]
-  },
-  {
-    "objectID": "policies/00-policies.html",
-    "href": "policies/00-policies.html",
-    "title": "Policies",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nData Archiving Policy\n\n\n \n\n\n \n\n\n\n\n\n\nHow to use the WWALK lab computer (aka George)\n\n\n \n\n\n \n\n\n\n\n\n\nLab Code of Conduct\n\n\n \n\n\n \n\n\n\n\n\n\nTips and tricks for students joining the lab\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Lab Policies"
-    ]
-  },
-  {
-    "objectID": "policies/04-lab-computer.html",
-    "href": "policies/04-lab-computer.html",
-    "title": "How to use the WWALK lab computer (aka George)",
-    "section": "",
-    "text": "How to use the WWALK lab computer (aka George)",
-    "crumbs": [
-      "Lab Policies",
-      "George (Lab Computer)"
-    ]
-  },
-  {
-    "objectID": "templates/01-data-sharing.html",
-    "href": "templates/01-data-sharing.html",
-    "title": "Data Sharing Agreements",
-    "section": "",
-    "text": "Data Sharing Agreements",
-    "crumbs": [
-      "Templates & Tutorials",
-      "Data Sharing Agreement Template"
-    ]
-  },
-  {
-    "objectID": "templates/03-thesis-proposal.html",
-    "href": "templates/03-thesis-proposal.html",
-    "title": "Thesis Proposal",
-    "section": "",
-    "text": "Thesis Proposal",
-    "crumbs": [
-      "Templates & Tutorials",
-      "Thesis Proposal"
-    ]
-  },
-  {
-    "objectID": "templates/06-camera.html",
-    "href": "templates/06-camera.html",
-    "title": "Crash course: Estimating species densities with camera traps",
-    "section": "",
-    "text": "Crash course: Estimating species densities with camera traps",
-    "crumbs": [
-      "Templates & Tutorials",
-      "Estimating Species Density with Camera Traps"
-    ]
-  },
-  {
-    "objectID": "templates/07-networks.html",
-    "href": "templates/07-networks.html",
-    "title": "Crash course: Weaving knowledge in Bayesian networks",
-    "section": "",
-    "text": "Crash course: Weaving knowledge in Bayesian networks",
-    "crumbs": [
-      "Templates & Tutorials",
-      "Weaving Knowledge in Bayesian Networks"
-    ]
-  },
-  {
-    "objectID": "resources/03-field-safety.html",
-    "href": "resources/03-field-safety.html",
-    "title": "WWALK (and UCalgary) Field Safety",
-    "section": "",
-    "text": "WWALK (and UCalgary) Field Safety",
-    "crumbs": [
-      "Lab Resources",
-      "Field Safety Document"
-    ]
-  },
-  {
-    "objectID": "resources/04-expenses.html",
-    "href": "resources/04-expenses.html",
-    "title": "How to file expense reports",
-    "section": "",
-    "text": "How to file expense reports",
-    "crumbs": [
-      "Lab Resources",
-      "Expense Reports & Lab Credit Card"
-    ]
-  },
-  {
-    "objectID": "resources/05-grants.html",
-    "href": "resources/05-grants.html",
-    "title": "How to apply for grants (with examples)",
-    "section": "",
-    "text": "How to apply for grants (with examples)",
-    "crumbs": [
-      "Lab Resources",
-      "NSERC & Other Grants"
-    ]
-  },
-  {
-    "objectID": "resources/06-antiO.html",
-    "href": "resources/06-antiO.html",
-    "title": "Anti-Oppression Resource List",
-    "section": "",
-    "text": "Anti-Oppression Resource List",
-    "crumbs": [
-      "Lab Resources",
-      "Anti-Oppression Resource List"
-    ]
-  },
-  {
-    "objectID": "other-resources/01-frequent-links.html",
-    "href": "other-resources/01-frequent-links.html",
-    "title": "Frequent Links (+ Private Stuff)",
-    "section": "",
-    "text": "Frequent Links (+ Private Stuff)",
-    "crumbs": [
-      "Other Resources",
-      "Frequent Links & Private Info"
+      "Other Resources"
     ]
   },
   {

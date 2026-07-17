@@ -1,1 +1,19 @@
 # How to use the WWALK lab computer (aka George)
+
+George is a lab computer that lives on the University of Calgary campus. It is a relatively powerful computer, so if you have tasks that demand a high computational load, it may be a good idea to run them on George and save yourself some time.
+
+George's specs:
+
+-   RAM: 32GB
+
+-   CPU: 8 cores
+
+-   Memory: ~ 1.4 TB of storage 
+
+If you are in person, you can access George directly. Sign-in details are located [here](https://github.com/WWALK-lab/internal-resources-private/blob/main/george.md).
+
+If you are working from home, remote connection is possible through [RustDesk](https://github.com/rustdesk/rustdesk/releases). You will need to install RuskDesk first, and then can access it via its "computer ID", located [here](https://github.com/WWALK-lab/internal-resources-private/blob/main/george.md).
+
+**Important:** Multiple people can log on to George at the same time. If you are running something on George, post in the lab Zulip to let others know that it is unavailable for the next few hours/day (UofC Things -\> George).
+
+If George is still not powerful enough to run the analyses you are doing, consider using the [UCalgary server](/other-resources/03-ucal-server.qmd)
