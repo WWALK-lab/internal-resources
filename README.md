@@ -16,7 +16,7 @@ We want this website to be a living document! If you want to contribute a resour
 
 -   fill in content
 
-    -   update code of conduct
+    -   City of Calgary info
 
 -   make private repo for sensitive material
 

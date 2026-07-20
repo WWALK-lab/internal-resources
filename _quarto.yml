@@ -76,6 +76,8 @@ website:
             text: Frequent Links & Private Info
           - href: other-resources/02-wwalk-lab-reading-list.qmd
             text: WWALK Lab Reading List
+          - href: other-resources/03-ucal-server.qmd
+            text: UCalgary Server
 
 
 format:
