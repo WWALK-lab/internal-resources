@@ -1,0 +1,200 @@
+# Suggested Timeline
+
+Starting grad school can be really overwhelming, especially at first. Sometimes it feels like there is nothing to do (or that there is a lot to do but no one has told you what it is!).
+
+Here is a suggested timeline for your first semester(s) at UCalgary.
+
+```{=html}
+<table>
+  <tr>
+    <td>Month</td>
+    <td>Tasks</td>
+    <td>Ongoing Tasks</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>
+      <ul>
+        <li>Go through <a href="https://grad.ucalgary.ca/current-students/thesis-based-students/checklist">student checklists with your supervisor(s)</a> and submit to your graduate program advisor</li>
+        <li>Download the Calgary Transit app and link your school account</li>
+        <li><a href="https://unicardphoto.ucalgary.ca/">Get your UCID card</a> (submit photo online → pick it up at International House)</li>
+        <li>Request specialized building / lab access if needed (<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7KAJxuOlMUaWhhkigL2RUcxOR_gKSdhPneZ2Rt-feOdUMjRMM0U3MEgzOERXSjZURjFFQ1QzMU85OS4u">Key Loan Authorization Form</a>;<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7KAJxuOlMUaWhhkigL2RUcxOR_gKSdhPneZ2Rt-feOdUMzZGRkRPRE05NkIxQ1k4WFFWQ1BQVUYyNi4u"> Building/After Hours Access Form</a>)</li>
+        <li>Sign & submit TA contract (AOAD form) (if applicable):
+            <ul>
+                <li>Send to professor responsible for the course for signature then submit to your student portal (PeopleSoft)</li>
+                <li>Upload your direct deposit form (to make sure you get paid!)</li>
+                <li>Tip: there is a two-week deadline for this signature & submission so make sure to read the fine print carefully!</li>
+            </ul>
+        </li>
+        <li>Read lab policies</li>
+        <li>Read other students theses & proposals from the lab</li>
+        <li>Read “The Scientists Guide to Writing” by Stephen Heard</li>
+        <li>Read 1-3 papers per day on your topic of interest</li>
+        <li>Do you know <a href="https://native-land.ca/">whose land</a> you’re on? Do you know the <a href="https://digitalcollections.ucalgary.ca/">history</a> of UCalgary / Calgary?</li>
+        <li>Set up weekly meetings with your supervisor</li>
+        <li>Work through <a href="https://datacarpentry.org/lessons/#ecology">Carpentries courses</a></li>
+        <li>EDI readings ADD LIST </li>
+        <li>Tour campus</li>
+      </ul>
+    </td>
+    <td rowspan="11">
+    <ul>
+        <li>Project planning
+            <ul>
+                <li>Meet with your supervisor to discuss your project, timelines, & expectations</li>
+                <li>Work on ACA, NSERC & other grant proposals </li>
+            </ul>
+        </li>
+        <li>Participate in weekly bio grad seminars (601)</li>
+        <li>Participate in <a href="https://werklund.ucalgary.ca/teaching-learning/student-resources/teaching-assistant-preparation-program">TA prep course</a>
+        	<ul>
+        		<li>Additional courses can be taken through the <a href="https://taylorinstitute.ucalgary.ca/programs-and-courses/programs/badges/teaching-assistant-readiness-program">Taylor Institute for Teaching & Learning</a> (you can earn badges & credentials!)</li>
+        		<li>Runs May-June (a series of 5 synchronous workshops for 10 hours total)</li>
+        	</ul>
+        </li>
+        <li>TA duties (if applicable)> 
+        	<ul> 
+        		<li> Your AOAD will outline your expected duties and timeline of completion (weekly)</li>
+        	</ul>
+       </li>
+       <li> Register for <a href="https://cumming.ucalgary.ca/gse/current-students/research-integrity-day">Research Integrity Day workshop</a> (complete within first year)</li>
+       <li> Complete a minimum of 1 of the 3 available <a href="https://cihr-irsc.gc.ca/e/49347.html">CIHR Sex & Gender training modules</a> (mandatory completion within first year)
+      	<ul>
+      		<li>Send copy of certificate to GPA</li>
+      	</ul>
+       </li>
+       <li> Prep for proposal committee meeting
+      	<ul> 
+      		<li>This is your 1st year committee meeting (ensures everyone feels that you are on the right track)</li>
+      		<li>6-8 months into your degree you will have a proposal meeting with your committee</li>
+      		<li>Prepare a 10 page proposal & brief 15 minute presentation highlighting your proposed research plan (<a href="">formatting & content requirements</a>)</li>
+      		<li>Tip: it's a good idea to go into this prepared (having your permits, literature reviews and a solid plan checked off is ideal)</li>
+      		<li> Deadline: by 12 months of program start </li>
+      	</ul>
+      </li>
+      <li> Complete all mandatory online training modules
+      	<ul>
+      		<li> Harassment and Violence Awareness (EHS039_2020)</li>
+      		<li> Hazard Assessment (EHS008_2020)
+      				<ul>
+      					<li> Deadline: 1st month of program</li>
+      				</ul>
+      		</li>
+      		<li> Occupational Health & Safety Orientation (EHS013_Module1_2020)
+      			<ul>
+      				<li>Deadline: 1st month of program</li>
+      			</ul>
+      		</li>
+      		<li>Defensive Driving (EHS045_2023)</li>
+      		<li>Field Safety Online Training (EHS043_2023)</li>
+      		<li>Standard First Aid 
+      			<ul>
+      				<li> Usually needs to be booked off-campus </li>
+      				<li> Check if your work requires wilderness first aid training </li>
+      			</ul>
+      		</li>
+      		<li>Field Safety Plan
+      			<ul>
+      				<li>Create <a href="https://www.ucalgary.ca/risk/environment-health-safety/programs-and-standards/field-safety-standard">this document</a> and have it approved by your supervisor and the department</li>
+      				<li>Includes: Pre-trip plan (needs approval); Pre-trip meeting procedure (needs to be signed by all field participants); On-site field activities procedure (completed daily); Daily FLHA (signed by all participants daily); Post-trip debrief procedure (documented daily); Emergency contact forms (all participants need to sign)</li>
+      			</ul>
+      		</li>
+      		<li><a href="https://research.ucalgary.ca/research-services/design-and-implement/ethics-compliance/ucare-and-animal-use-protocols">Animal care permits</a> (if applicable)</li>
+      		<li><a href="https://research.ucalgary.ca/research-services/design-and-implement/ethics-and-compliance">Human ethics</a> (if applicable) 
+      		<li>Land / site access permission / permit (if applicable)</li>
+      		<li>Field Research Permits (eg. Parks canada, Kananaskis Parks, etc). </li>
+      	</ul>
+      </li>
+      <li> Mandatory training for TAs and for lab work
+      	<ul> 
+      		<li>WHIMIS 2015</li>
+      		<li>Laboratory safety training</li>
+      		<li>Spill Response Training</li>
+      		<li>Incident Reporting and Investigation</li>
+      	</ul> 
+      </li>2
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>
+    	<ul>
+        <li>Driving (for field work):
+            <ul>
+                <li>Submit request for drivers abstract from the province 
+</li>
+                <li>Complete defensive driving training (EHS045_2023) & submit certificate & abstract to drivers@ucalgary.ca </li>
+                <li>Get approval from the department (automated message)</li>
+            </ul>
+        </li>
+        <li>Sign up for NSERC proposal peer review (check your emails)</li>
+        <li><a href="https://grad.ucalgary.ca/supervisory-resources/graduate-supervisors/supervisor-resources/best-practices-supervisory-committees">Choose and contact committee members</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>
+      <ul>
+        <li>Get your NSERC or other grant proposals peer-reviewed!
+            <ul>
+                <li>If you missed the deadline to submit, ask a friend!</li>
+            </ul>
+        </li>    
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>
+    	<ul>
+        <li>NSERC application DUE December 1 for MSc students</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td rowspan="7">
+    	<ul>
+        <li>Create & practice presentation for 601 seminar:
+            <ul>
+            	<li>Your seminar presentation is usually held between March - April (for September start) and September / October (January start)</li>
+            </ul>
+        </li>
+        <li>Preparation for field/lab work (if applicable):
+        	<ul>
+          	<li>Data sheets (have these printed on write in the rain paper)</li>
+          	<li>Materials (purchase any necessary equipment early, test and calibrate before use)</li>
+          	<li><a href="https://wwalk-lab.github.io/internal-resources/policies/03-data-management.html">Data management</a> (set up your data files in advance to make entry easier after long days in the field)</li>
+            </ul>
+        </li>
+        <li><a href="https://grad.ucalgary.ca/current-students/thesis-based-students/annual-progress-report-apr">Annual Progress Reports</a>
+        	<ul>
+          	<li>In May you will be asked to fill out a short report pertaining to: courses completed and grades received; scholarships; research progress; publications and conferences; academic plans for the upcoming year</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>11</td>
+  </tr>
+  
+</table>
+```

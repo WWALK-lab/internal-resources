@@ -11,9 +11,10 @@
   {
     "listing": "/ucal/00-ucal.html",
     "items": [
-      "/ucal/01-program-requirements.html",
+      "/ucal/02-program-requirements.html",
       "/ucal/03-resources.html",
-      "/ucal/02-thesis-requirements.html"
+      "/ucal/01-timeline.html",
+      "/ucal/04-thesis-requirements.html"
     ]
   },
   {

@@ -63,11 +63,13 @@ website:
       - section: "University of Calgary"
         href: ucal/00-ucal.qmd
         contents:
-          - href: ucal/01-program-requirements.qmd
+          - href: ucal/01-timeline.qmd
+            text: First Semester Timeline
+          - href: ucal/02-program-requirements.qmd
             text: UCalgary Program Requirements
-          - href: ucal/02-thesis-requirements.qmd
+          - href: ucal/03-thesis-requirements.qmd
             text: UCalgary Thesis (and Proposal) Requirements
-          - href: ucal/03-resources.qmd
+          - href: ucal/04-resources.qmd
             text: UCalgary Student Resources
       - section: "Other Resources"
         href: other-resources/00-other-resources.qmd
