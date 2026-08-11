@@ -532,7 +532,8 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="data-sheets">1. Data sheets</h3>
 <p>Regardless of whether you are using a tablet or paper, thinking about how you set up your data sheets so that data is clear and easy to input is important.</p>
 <p>If using a tablet, make sure that there is a plan to back up the data to the cloud during data input in case the tablet is damaged or runs out of battery. Always bring a few paper datasheets in case of technological issues.</p>
-<p>If putting out passive sensors and don’t need datasheets, make sure that there is a recording of the sensor IDs and locations.</p>
+<p>If using paper datasheets, make sure to take a photo of datasheets at the end of every day, to ensure they are backed up if they are lost/damaged.</p>
+<p>If putting out passive sensors, make sure to create a datasheet that records the sensor IDs, locations, and date + time of deployment/retrieval.</p>
 </section>
 <section id="project-repository" class="level3">
 <h3 class="anchored" data-anchor-id="project-repository">2. Project repository</h3>
@@ -582,7 +583,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Some things to consider when using git:</p>
 <ul>
 <li><p>large files: GitHub repositories cannot store individual files &gt; 100 MB or repositories &gt; 10 GB. If you have large file(s), add them to your .gitignore document (see more <a href="https://git-scm.com/docs/gitignore">here</a>)</p></li>
-<li><p>private vs public: scientists generally publish our repositories as public as part of our commitment to open science. However, some data (and associated code) should NOT be publicly visible (e.g., interview data). Make sure to take all appropriate privacy precautions when working with git and when publicly archiving data.</p></li>
+<li><p>private vs public: scientists generally publish our repositories as public as part of our commitment to open science. However, some data (and associated code) should NOT be publicly visible (e.g., interview data). Make sure to discuss this with your supervisor(s), collaborators, and consult your data sharing agreement when working with git and publicly archiving data.</p></li>
 </ul>
 </section>
 </section>
@@ -590,15 +591,19 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="post-data-collection">Post-data collection</h2>
 <section id="data-back-ups" class="level3">
 <h3 class="anchored" data-anchor-id="data-back-ups">1. Data back ups</h3>
-<p>Immediately upon data collection, you should be backing up your raw data files. Your raw data should be stored on your computer, the lab computer, and a cloud system. If you are collecting your data over months or years, your back up system should be established as soon as you have collected any raw data and added to as data collection continues.</p>
-<p><strong>Personal Computers</strong> Have your raw-data clearly labelled and in an easily-identifiable folder (see Project Repository section above). Treat the raw-data files as <em>read-only</em> and make copies of them before ever editing.</p>
-<p><strong>Lab Computers</strong> The lab computer in the WWALK lab can be accessed in person and remotely. Check details <a href="../policies/04-lab-computer.html">here</a> on how to connect, so that you can back up your computer.</p>
+<p>Immediately upon data collection, you should be backing up your raw data files. If you are the person responsible for storing and archiving the data, your raw data should be stored on your computer, the lab computer, and a cloud system. If you are collecting your data over months or years, your back up system should be established as soon as you have collected any raw data and added to as data collection continues.</p>
+<p>If you are collecting data in collaboration with community and/or government, make sure to consult your data sharing agreement and collaborators before archiving the data on the lab computer/cloud system.</p>
+<p><strong>Personal Computers</strong> Have your raw-data clearly labelled and in an easily-identifiable folder (see Project Repository section above). Treat the raw-data files as <em>read-only</em> and make copies of them before ever editing. <strong>Never edit raw data directly</strong>.</p>
+<p><strong>Lab Computers</strong> The lab computer in the WWALK lab can be accessed in person and remotely. Check details <a href="../policies/04-lab-computer.html">here</a> on how to connect, so that you can back up your computer. The lab computer is also backed up by an external hard drive.</p>
 <p><strong>Cloud Storage</strong> As UCal students, you are given 100GB of OneDrive storage associated with your student email. This is a convenient cloud storage solution for most people in the lab. If this is not enough storage, contact the IT department for more storage solutions and/or discuss with Ally.</p>
 </section>
 <section id="metadata" class="level3">
 <h3 class="anchored" data-anchor-id="metadata">2. Metadata</h3>
 <p>All raw data files associated with your project should have accompanying metadata. There are many approaches to how to format and prepare metadata. If you are interested in learning more, you can check out these resources:</p>
-<p>RESOURCES</p>
+<ul>
+<li><p><a href="https://zenodo.org/records/6459832">ARDC Metadata Guide</a></p></li>
+<li><p><a href="https://data.research.cornell.edu/data-management/storing-and-managing/metadata/">Metadata and describing data</a></p></li>
+</ul>
 <p>For this lab, the minimum level of metadata that should be included is a text file found with your raw data that specifies the file name, general description of file, and a description of every column (with units).</p>
 <p>For example, if your <code>raw-data/</code> folder looked something like:</p>
 <pre><code>raw-data/
@@ -634,8 +639,8 @@ column_2: description of column 2 (units)</code></pre>
 </section>
 <section id="when-the-project-ends" class="level2">
 <h2 class="anchored" data-anchor-id="when-the-project-ends">When the project ends</h2>
-<p>After finishing your project(s) in the lab, you are expected to archive all data, metadata, and code that was used for your project.</p>
-<p>All data should always be accompanied with metadata.</p>
+<p>After finishing your project(s) in the lab, you are expected to deliver all data, metadata, and code that was used for your project to the appropriate place. If you are not the person responsible for data management, make sure that your data and metadata is sent to the person responsible in a clean and usable format. If you are responsible for data management, your data, metadata, and code should be archived in the lab and publicly (if appropriate).</p>
+<p><strong>All data should always be accompanied with metadata.</strong></p>
 <ol type="1">
 <li>Archiving publicly</li>
 </ol>
@@ -646,8 +651,8 @@ column_2: description of column 2 (units)</code></pre>
 <li>Archiving on lab computer</li>
 </ol>
 <p>In addition to public archiving, you are expected to archive your project physically in the lab.</p>
-<p>If all of your code, data, and metadata is already archived publicly, this can be as easy as downloading a zip file and putting it WHERE.</p>
-<p>If some of your data is not suitable to be publicly available, you may need to add it to your publicly archived version and set permission restrictions on the folder on WHERE so that only yourself and Ally can access the folder.</p>
+<p>If all of your code, data, and metadata is already archived publicly, this can be as easy as downloading a zip file and putting it on the lab computer. DETAILS.</p>
+<p>If some of your data is not suitable to be publicly available, you may need to add it to your archived version on the lab computer and set permission restrictions on the folder on WHERE so that only yourself and Ally can access the folder.</p>
 <p>To archive your project on WHERE, remotely (or locally) connect to the <a href="../policies/04-lab-computer.html">lab computer</a> and add data, metadata, code, thesis/paper(s), and any presentations to WHERE in a folder that is titled YOUR_NAME_YEAR.</p>
 </section>
 <section id="references" class="level2">
@@ -662,6 +667,7 @@ column_2: description of column 2 (units)</code></pre>
 <p><a href="https://happygitwithr.com/">happygitwithr</a></p>
 <p><a href="https://www.uib.no/en/ub/111372/open-access-research-data#metadata-describe-your-data">Open Access to Research Data</a></p>
 <p><a href="https://vlucet.github.io/git-and-github-with-r-workshop/">Val Lucet’s Git Workshop</a></p>
+<p><a href="https://data.research.cornell.edu/data-management/sharing/readme/">Writing READMEs for Research Data</a></p>
 
 
 </section>

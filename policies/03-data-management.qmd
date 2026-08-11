@@ -1,4 +1,4 @@
-# Data Management & Archiving 
+# Data Management & Archiving
 
 The WWALK lab highly values scientific rigour and reproducibility. One of the ways that we ensure our science is rigorous and reproducible is through the consistent application of a data management and archiving policy.
 
@@ -12,7 +12,9 @@ Regardless of whether you are using a tablet or paper, thinking about how you se
 
 If using a tablet, make sure that there is a plan to back up the data to the cloud during data input in case the tablet is damaged or runs out of battery. Always bring a few paper datasheets in case of technological issues.
 
-If putting out passive sensors and don't need datasheets, make sure that there is a recording of the sensor IDs and locations. 
+If using paper datasheets, make sure to take a photo of datasheets at the end of every day, to ensure they are backed up if they are lost/damaged.
+
+If putting out passive sensors, make sure to create a datasheet that records the sensor IDs, locations, and date + time of deployment/retrieval.
 
 ### 2. Project repository
 
@@ -57,15 +59,15 @@ Within this folder, it should be easily identifiable which order scripts are use
 
 Finally, the README.md file can act as a type of metadata or project overview : it facilitates people using your data, script, etc. There are some basic requirements from a README in order to make your work usable. We need to know:
 
-- how the data is structured what it describes
+-   how the data is structured what it describes
 
-- how to read it (e.g. column headings and units)
+-   how to read it (e.g. column headings and units)
 
-- methodological information such as instrument settings and calibrations, reagents used, or survey questions
+-   methodological information such as instrument settings and calibrations, reagents used, or survey questions
 
-- exactly what they are allowed to do with the data through rights metadata such as licensing
+-   exactly what they are allowed to do with the data through rights metadata such as licensing
 
-- how to acknowledge the original creators by citing the data
+-   how to acknowledge the original creators by citing the data
 
 **NOTE:** there is a second way that some people in the lab set up their repositories - the [{targets}](https://books.ropensci.org/targets/) package for setting up analysis as a pipeline. This approach will change the setup and how you interact with the code slightly. For more details, see [this workshop](https://robitalec.github.io/reproducible-workflows-workshop/) developed by lab member Bella and their colleague, [Alec Robitaille](https://robitalec.ca/).
 
@@ -83,28 +85,31 @@ Each student project in the WWALK lab can go on your personal GitHub or on the [
 
 Some things to consider when using git:
 
-- large files: GitHub repositories cannot store individual files \> 100 MB or repositories \> 10 GB. If you have large file(s), add them to your .gitignore document (see more [here](https://git-scm.com/docs/gitignore))
+-   large files: GitHub repositories cannot store individual files \> 100 MB or repositories \> 10 GB. If you have large file(s), add them to your .gitignore document (see more [here](https://git-scm.com/docs/gitignore))
 
-- private vs public: scientists generally publish our repositories as public as part of our commitment to open science. However, some data (and associated code) should NOT be publicly visible (e.g., interview data). Make sure to take all appropriate privacy precautions when working with git and when publicly archiving data.
+-   private vs public: scientists generally publish our repositories as public as part of our commitment to open science. However, some data (and associated code) should NOT be publicly visible (e.g., interview data). Make sure to discuss this with your supervisor(s), collaborators, and consult your data sharing agreement when working with git and publicly archiving data.
 
 ## Post-data collection
 
 ### 1. Data back ups
 
-Immediately upon data collection, you should be backing up your raw data files. Your raw data should be stored on your computer, the lab computer, and a cloud system. If you are collecting your data over months or years, your back up system should be established as soon as you have collected any raw data and added to as data collection continues.
+Immediately upon data collection, you should be backing up your raw data files. If you are the person responsible for storing and archiving the data, your raw data should be stored on your computer, the lab computer, and a cloud system. If you are collecting your data over months or years, your back up system should be established as soon as you have collected any raw data and added to as data collection continues.
 
-**Personal Computers** Have your raw-data clearly labelled and in an easily-identifiable folder (see Project Repository section above). Treat the raw-data files as *read-only* and make copies of them before ever editing.
+If you are collecting data in collaboration with community and/or government, make sure to consult your data sharing agreement and collaborators before archiving the data on the lab computer/cloud system.
 
-**Lab Computers** The lab computer in the WWALK lab can be accessed in person and remotely. Check details [here](/policies/04-lab-computer.qmd) on how to connect, so that you can back up your computer.
+**Personal Computers** Have your raw-data clearly labelled and in an easily-identifiable folder (see Project Repository section above). Treat the raw-data files as *read-only* and make copies of them before ever editing. **Never edit raw data directly**.
+
+**Lab Computers** The lab computer in the WWALK lab can be accessed in person and remotely. Check details [here](/policies/04-lab-computer.qmd) on how to connect, so that you can back up your computer. The lab computer is also backed up by an external hard drive.
 
 **Cloud Storage** As UCal students, you are given 100GB of OneDrive storage associated with your student email. This is a convenient cloud storage solution for most people in the lab. If this is not enough storage, contact the IT department for more storage solutions and/or discuss with Ally.
-
 
 ### 2. Metadata
 
 All raw data files associated with your project should have accompanying metadata. There are many approaches to how to format and prepare metadata. If you are interested in learning more, you can check out these resources:
 
-RESOURCES
+-   [ARDC Metadata Guide](https://zenodo.org/records/6459832)
+
+-   [Metadata and describing data](https://data.research.cornell.edu/data-management/storing-and-managing/metadata/)
 
 For this lab, the minimum level of metadata that should be included is a text file found with your raw data that specifies the file name, general description of file, and a description of every column (with units).
 
@@ -116,7 +121,6 @@ raw-data/
 └───dataset2.csv
 └───metadata.txt
 ```
-
 
 The metadata.txt file could look something like:
 
@@ -151,10 +155,9 @@ Tip: writing your metadata as you are inputting your raw data can be very helpfu
 
 ## When the project ends
 
-After finishing your project(s) in the lab, you are expected to archive all data, metadata, and code that was used for your project.
+After finishing your project(s) in the lab, you are expected to deliver all data, metadata, and code that was used for your project to the appropriate place. If you are not the person responsible for data management, make sure that your data and metadata is sent to the person responsible in a clean and usable format. If you are responsible for data management, your data, metadata, and code should be archived in the lab and publicly (if appropriate).
 
-All data should always be accompanied with metadata.
-
+**All data should always be accompanied with metadata.**
 
 1.  Archiving publicly
 
@@ -164,17 +167,15 @@ If you are using GitHub, you are welcome to have your code repository hosted on 
 
 If you want to change the ownership of a repository (transfer it to your account from the WWALK account or vice versa), see [this page](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-personal-account)
 
-
 2.  Archiving on lab computer
 
 In addition to public archiving, you are expected to archive your project physically in the lab.
 
-If all of your code, data, and metadata is already archived publicly, this can be as easy as downloading a zip file and putting it WHERE.
+If all of your code, data, and metadata is already archived publicly, this can be as easy as downloading a zip file and putting it on the lab computer. DETAILS.
 
-If some of your data is not suitable to be publicly available, you may need to add it to your publicly archived version and set permission restrictions on the folder on WHERE so that only yourself and Ally can access the folder.
+If some of your data is not suitable to be publicly available, you may need to add it to your archived version on the lab computer and set permission restrictions on the folder on WHERE so that only yourself and Ally can access the folder.
 
 To archive your project on WHERE, remotely (or locally) connect to the [lab computer](/policies/04-lab-computer.qmd) and add data, metadata, code, thesis/paper(s), and any presentations to WHERE in a folder that is titled YOUR_NAME_YEAR.
-
 
 ## References
 
@@ -198,3 +199,4 @@ To archive your project on WHERE, remotely (or locally) connect to the [lab comp
 
 [Val Lucet's Git Workshop](https://vlucet.github.io/git-and-github-with-r-workshop/)
 
+[Writing READMEs for Research Data](https://data.research.cornell.edu/data-management/sharing/readme/)

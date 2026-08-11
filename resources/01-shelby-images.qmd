@@ -50,37 +50,35 @@ This page is to display all the art that Shelby has created for the lab. For hig
 
 ## Methodologies
 ::: {layout-ncol=3}
-![](../imgs/shelby/2_Interview.png)
+![](../imgs/shelby/2_Interview.png){width="250"}
 
-![](../imgs/shelby/5_TobaccoTie.png)
+![](../imgs/shelby/5_TobaccoTie.png){width="250"}
 
-![](../imgs/shelby/7_CommunityBasedMonitoring.png)
+![](../imgs/shelby/7_CommunityBasedMonitoring.png){width="250"}
 
-![](../imgs/shelby/8_Fire.png)
+![](../imgs/shelby/8_Fire.png){width="250"}
 
-![](../imgs/shelby/9_Helicopter.png)
+![](../imgs/shelby/10_LandUserSurvey.png){width="250"}
 
-![](../imgs/shelby/10_LandUserSurvey.png)
+![](../imgs/shelby/14_LandbasedLearning.png){width="250"}
 
-![](../imgs/shelby/14_LandbasedLearning.png)
+![](../imgs/shelby/21_SharingCircle.png){width="250"}
 
+![](../imgs/shelby/25_Telemetry.png){width="250"}
 
-![](../imgs/shelby/19_CameraTrap.png)
+![](../imgs/shelby/28_GPSCollar.png){width="250"}
 
-![](../imgs/shelby/21_SharingCircle.png)
+![](../imgs/shelby/31_Interconnected.png){width="250"}
 
-![](../imgs/shelby/25_Telemetry.png)
+![](../imgs/shelby/27_Guardians.png){width="250"}
 
-![](../imgs/shelby/27_Guardians.png)
+![](../imgs/shelby/9_Helicopter.png){width="250"}
 
-![](../imgs/shelby/28_GPSCollar.png)
+![](../imgs/shelby/19_CameraTrap.png){width="250"}
 
-![](../imgs/shelby/31_Interconnected.png)
-![](../imgs/shelby/17_WWALKtober_Reciprocity.png){width=80%}
-![](../imgs/shelby/PersonAtTable.png)
+![](../imgs/shelby/PersonAtTable.png){width="250"}
 
-![](../imgs/shelby/PersonNearRiver.png)
-
+![](../imgs/shelby/PersonNearRiver.png){width="250"}
 
 :::
 
@@ -88,40 +86,39 @@ This page is to display all the art that Shelby has created for the lab. For hig
 
 ::: {layout-nrow=1}
 
-![](../imgs/shelby/12_Weaving.png)
 
-![](../imgs/shelby/Braid.png)
-![](../imgs/shelby/Braid2.png){width=80%}
+![](../imgs/shelby/12_Weaving.png){width=300}
+![](../imgs/shelby/Braid.png){width=300}
+![](../imgs/shelby/Braid2.png){width=300}
 
 
 ::: 
 
 ## Landscapes 
-::: {layout-ncol=2}
+
+:::: {layout="[0.5, 0.5]"}
+
+:::{#firstcol}
+
 
 ![](../imgs/shelby/4_Fragmentation.png)
+![](../imgs/shelby/24_Urbanization.png)
+![](../imgs/shelby/1_Forestry.png)
+![](../imgs/shelby/29_Habitat.png)
+:::
+
+:::{#secondcol}
 
 ![](../imgs/shelby/26_Fence.png)
-
-![](../imgs/shelby/1_Forestry.png)
-![](../imgs/shelby/Untitled_Artwork.png)
-
-
-
-![](../imgs/shelby/24_Urbanization.png)
 ![](../imgs/shelby/11_Grassland.png)
-![](../imgs/shelby/29_Habitat.png)
 
 
-
-![](../imgs/shelby/Canada_MCN-OCN-WSFN.png){width=80%}
-
-
-
-
-
-
+![](../imgs/shelby/Canada_MCN-OCN-WSFN.png)
+![](../imgs/shelby/Untitled_Artwork.png){width="80%"}
 :::
+
+::::
+
 
 
 ## Patterns Design
